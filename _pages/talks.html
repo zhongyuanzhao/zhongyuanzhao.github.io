@@ -11,6 +11,24 @@ author_profile: true
 
 {% endif %}
 
-{% for post in site.talks reversed %}
+
+<h1 style="text-align:center;">Conferences</h1>
+
+{% assign conferences = site.talks | where: "category", "conference" %}
+{% for post in conferences reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
+
+<h1 style="text-align:center;">Demo Presentation</h1>
+
+{% assign conferences = site.talks | where: "category", "demo" %}
+{% for post in conferences reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
+
+<h1 style="text-align:center;">Small Projects</h1>
+
+{% assign projects = site.talks | where: "category", "informal" %}
+{% for post in projects reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}
