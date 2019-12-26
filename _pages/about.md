@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 {% include base_path %}
-[Curriculum Vitae]({{site.baseurl}}/files/zhongyuanzhao-cv-2018.pdf)
 
 I am a Postdoctoral Research Associate in the Department of Electrical and Computer Engineering at Rice University. I work with [Prof. Santiago Segarra](http://segarra.rice.edu/) on topics of using deep learning, especially graph neural networks and reinforcement learning, to improve the wireless networks.
 
