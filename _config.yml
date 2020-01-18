@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zhongyuan Zhao, Ph.D"
 title_separator          : "-"
 name                     : &name "Zhongyuan Zhao"
-description              : &description "Ph.D. in Computer Engineering at Unversity of Nebraska-Lincoln. CFA Level 3 Candidate."
+description              : &description "Ph.D. in Computer Engineering. CFA Level 3 Candidate."
 url                      : https://zhongyuanzhao.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "zhongyuanzhao/zhongyuanzhao.github.io"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
