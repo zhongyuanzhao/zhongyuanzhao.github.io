@@ -15,7 +15,7 @@ I received Ph.D. degree in computer engineering from the Department of Computer 
 
 My [CV]({{site.baseurl}}/files/zhongyuanzhao-cv.pdf)
 
-Recent News
+Recent Posts
 ======
   <ul>{% for post in site.posts limit:5 reversed %}
     {% include archive-single-talk-cv.html %}
