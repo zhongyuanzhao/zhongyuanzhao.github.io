@@ -21,7 +21,7 @@ Recent Posts
 <ul>
 {% assign posts = site.posts %}
 {% for post in posts limit:5  %}
-	{% include archive-single-talk-cv.html %}
+    {% include archive-single-talk-cv.html %}
 {% endfor %}
 </ul>
 
