@@ -1,5 +1,5 @@
 ---
-title: '"Distributed Scheduling using Graph Neural Networks" accepted by IEEE ICASSP 2021'
+title: 'Our paper "Distributed Scheduling using Graph Neural Networks" is accepted by IEEE ICASSP 2021'
 date: 2021-01-30
 permalink: /posts/2021/01/news-icassp-2021/
 tags:
@@ -13,3 +13,4 @@ In our latest paper "Distributed Scheduling using Graph Neural Networks" accepte
 
 Preprint: https://arxiv.org/abs/2011.09430
 Code: https://github.com/zhongyuanzhao/distgcn/
+

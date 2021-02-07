@@ -17,9 +17,13 @@ My [CV]({{site.baseurl}}/files/zhongyuanzhao-cv.pdf)
 
 Recent Posts
 ======
-  <ul>{% for post in site.posts limit:5 reversed %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+
+<ul>
+{% assign posts = site.posts %}
+{% for post in posts limit:5  %}
+	{% include archive-single-talk-cv.html %}
+{% endfor %}
+</ul>
 
 A little bit more about me
 ======
