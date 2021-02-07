@@ -20,8 +20,17 @@ Recent Posts
 
 <ul>
 {% assign posts = site.posts %}
-{% for post in posts limit:5  %}
-    {% include archive-single-talk-cv.html %}
+{% for post in posts limit:20  %}
+    <li>      
+	<span class="archive__item-title" itemprop="headline">
+      {% if post.link %}
+        <a href="{{ post.link }}">{{ post.title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+      {% else %}
+        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>
+      {% endif %}
+    </span>
+    {% if post.date %}<i style="color: gray;font-size: 0.7em;">{{ post.date | date: '%B %d, %Y' }}</i> {% endif %}
+    </li>
 {% endfor %}
 </ul>
 
