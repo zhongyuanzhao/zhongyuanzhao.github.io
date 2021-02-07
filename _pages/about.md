@@ -13,7 +13,7 @@ I am a Postdoctoral Research Associate in the Department of Electrical and Compu
 
 I received Ph.D. degree in computer engineering from the Department of Computer Science and Engineering of University of Nebraska-Lincoln in 2019, under the guidance of [Dr. Mehmet C. Vuran](http://cse.unl.edu/~mcvuran/). My Ph.D. research is focused on [dynamic spectrum sharing]({{site.baseurl}}/portfolio/cognitive-radio-networks/), [large-scale wireless testbed and radio frequency machine learning](https://cpn.unl.edu/projects/cosec). Before my Ph.D program, I earned my B.Sc. and M.Sc. in Electronic Engineering from University of Electronic Science and Technology of China, and worked in ArrayComm and Ericsson developing 4th generation wireless base-stations.
 
-
+My [CV]({{site.baseurl}}/files/zhongyuanzhao-cv.pdf)
 
 Recent News
 ======
