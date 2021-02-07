@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "I'm Zhongyuan, I do research in"
 excerpt: "Biography"
 author_profile: true
 redirect_from:
@@ -9,11 +9,14 @@ redirect_from:
 ---
 {% include base_path %}
 
-I am a Postdoctoral Research Associate in the Department of Electrical and Computer Engineering at Rice University. I work with [Prof. Santiago Segarra](http://segarra.rice.edu/) on machine learning for wireless networks, with a focus on using graph neural networks and reinforcement learning for resource allocation in wireless networks. My current research interests include next-generation wireless networks, machine learning for wireless communications, and network science.
+wireless communications and networks, with a focus on machine learning for the next generation wireless communications and networked systems in general. My current research interests include: 1) developing intelligent wireless networks with improved performance, efficiency, scalability, and autonomy, and 2) applying machine learning for various tasks in the context of networks, which can be of many types including physical, engineered, information, social, biological, and economic networks.
 
-I received Ph.D. degree in computer engineering from the Department of Computer Science and Engineering of University of Nebraska-Lincoln in 2019, under the guidance of [Dr. Mehmet C. Vuran](http://cse.unl.edu/~mcvuran/). My Ph.D. research is focused on [dynamic spectrum sharing]({{site.baseurl}}/portfolio/cognitive-radio-networks/), [large-scale wireless testbed and radio frequency machine learning](https://cpn.unl.edu/projects/cosec). Before my Ph.D program, I earned my B.Sc. and M.Sc. in Electronic Engineering from University of Electronic Science and Technology of China, and worked in ArrayComm and Ericsson developing 4th generation wireless base-stations.
 
-My [CV]({{site.baseurl}}/files/zhongyuanzhao-cv.pdf)
+Currently, I am a Postdoctoral Research Associate in the Department of Electrical and Computer Engineering at Rice University. I work with [Santiago Segarra](http://segarra.rice.edu/) on autonomous networking, with a focus on resource allocation in wireless networks. 
+
+I got Ph.D. degree in computer engineering from the University of Nebraska-Lincoln in 2019, under the guidance of [Mehmet C. Vuran](http://cse.unl.edu/~mcvuran/). My Ph.D. research is focused on [dynamic spectrum sharing]({{site.baseurl}}/portfolio/cognitive-radio-networks/), [large-scale wireless testbed and radio frequency machine learning](https://cpn.unl.edu/projects/cosec). Before my Ph.D program, I earned my B.Sc. and M.Sc. in Electronic Engineering from University of Electronic Science and Technology of China, and worked in ArrayComm and Ericsson developing 4th generation wireless base-stations.
+
+I am actively searching for a job in academia or industry. Here is my [CV]({{site.baseurl}}/files/zhongyuanzhao-cv.pdf).
 
 Recent Posts
 ======
