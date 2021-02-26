@@ -26,7 +26,8 @@ Some useful and fun stuff.
   - [threejs](https://threejs.org/), [D3.js](https://d3js.org/), [matplotlib](https://matplotlib.org/) 
 
 
-# Fun stuff
+# Mathematics
+- [Michel Bierlaire's lecture on Duality](https://www.youtube.com/watch?v=nClTjGznkTo&list=PL10NOnsbP5Q61XSVk-3yNOY2qLI-wTM6k) highly recommended
 - [Mathematics Genealogy Project](https://genealogy.math.ndsu.nodak.edu/)
 
 
