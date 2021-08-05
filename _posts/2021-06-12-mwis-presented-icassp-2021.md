@@ -1,6 +1,6 @@
 ---
 title: '"Distributed Scheduling using Graph Neural Networks" is presented at IEEE ICASSP 2021'
-date: 2021-06-06
+date: 2021-06-08
 permalink: /posts/2021/06/mwis-presented-icassp-2021/
 tags:
   - wireless ad-hoc networks
