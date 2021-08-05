@@ -9,6 +9,10 @@ tags:
   - OFDM
 ---
 
-"Deep-Waveform: A Learned OFDM Receiver Based on Deep Complex Convolutional Networks" is now accepted to IEEE Journal on Selected Areas in Communications, and will appear in the special issue 'Machine Learning in Communications and Networks' for July 2021.
+"Deep-Waveform: A Learned OFDM Receiver Based on Deep Complex Convolutional Networks" is now accepted to IEEE Journal on Selected Areas in Communications, and will appear in Volumne: 39, Issue: 8, Aug. 2021. 
 
-The [preprint](https://arxiv.org/abs/1810.07181) is expected to have another minor update, and the full [source code](https://github.com/zhongyuanzhao/dl_ofdm) has been published to the original github repository.
+Checkout 
+- [Full paper on IEEEXplore](https://doi.org/10.1109/JSAC.2021.3087241)
+- [Preprint](https://arxiv.org/abs/1810.07181)
+- [Source code](https://github.com/zhongyuanzhao/dl_ofdm).
+

@@ -23,6 +23,7 @@ group :jekyll_plugins do
   # gem "jekyll-archives"
   # gem "jekyll-github-metadata"
   gem "jekyll-feed"
+  gem "webrick"
   gem 'jekyll-sitemap'
   gem 'hawkins'
 end
