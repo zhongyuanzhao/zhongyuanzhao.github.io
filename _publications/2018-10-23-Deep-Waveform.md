@@ -19,6 +19,8 @@ _Keywords_: Wireless Communications, Physical Layer, Deep Learning, Artificial N
 - [Preprint](https://arxiv.org/abs/1810.07181)
 - [Source code](https://github.com/zhongyuanzhao/dl_ofdm).
 
-History: first appear in Arxiv on Oct. 2018, submitted to IEEE JSAC on Dec. 2020, published in IEEE JSAC on June 2020.
+History: first appear in Arxiv on Oct. 2018, submitted to IEEE JSAC on Dec. 2020, published in IEEE JSAC on June 2021.
+
+The majority of this work was completed during the Ph.D. studies of the author Zhongyuan Zhao at UNL. This work was supported by the NSF under Grant CNS-1731833.
 
 Zhongyuan Zhao, Mehmet C. Vuran, Fujuan Guo, and Stephen Scott, "Deep-Waveform: A Learned OFDM Receiver Based on Deep Complex-Valued Convolutional Networks," in IEEE Journal on Selected Areas in Communications, vol. 39, no. 8, pp. 2407-2420, Aug. 2021, doi: 10.1109/JSAC.2021.3087241.
