@@ -10,6 +10,7 @@ Some useful and fun stuff.
 ## Deep learning
 - [deeplearning.ai](https://www.deeplearning.ai), online courses for artificial intelligence, founded by Andrew Yan-Tak Ng (Chinese: 吳恩達)
 - [Stanford Network Analysis Project](http://snap.stanford.edu/), collection of resources for machine learning on graphs
+- [Deep Graph Library](https://dgl.ai)
 - [Open Graph Benchmark](https://ogb.stanford.edu/) Benchmark datasets, data loaders and evaluators for graph machine learning
 - [towards data science](https://towardsdatascience.com/)
 
