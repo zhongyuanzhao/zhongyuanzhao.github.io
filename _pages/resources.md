@@ -21,7 +21,7 @@ Some useful and fun stuff.
   - [freeCodeCamp](https://www.freecodecamp.org/)
   - [Full Stack Python](https://www.fullstackpython.com/) web dev
   - Tensorflow: [Official tutorials](https://www.tensorflow.org/tutorials), Udacity: [Intro to TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
-  - PyTorch: [Official tutorials](https://pytorch.org/tutorials/index.html), Udacity: [Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
+  - PyTorch: [Official tutorials](https://pytorch.org/tutorials/index.html), Udacity: [Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188), [PyTorch-Geometric](https://pytorch-geometric.readthedocs.io/en/latest/)
 - Computing
   + Sanjeev Arora and Boaz Barak, ["Computational Complexity: A Modern Approach"](http://theory.cs.princeton.edu/complexity/), Princeton University, 2007
 - Visualization
