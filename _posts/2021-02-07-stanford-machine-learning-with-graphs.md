@@ -8,7 +8,7 @@ tags:
   - course
 ---
 
-For anyone interested in graphs, I highly recommend this lecture by Jure Leskovec and Michele Catasta from [Stanford Network Analysis Project](http://snap.stanford.edu/) (SNAP). Checkout the [course home page](http://snap.stanford.edu/class/cs224w/). 
+For anyone interested in graphs, I highly recommend this lecture by Jure Leskovec and Michele Catasta from [Stanford Network Analysis Project](http://snap.stanford.edu/) (SNAP). Checkout the [course home page](https://web.stanford.edu/class/cs224w/). 
 
 Here is a [playlist](https://www.youtube.com/watch?v=uEPPnR22fxg&list=PL-Y8zK4dwCrQyASidb2mjj_itW2-YYx6-&index=1) of lectures from the archive of [CS224W fall 2019](http://snap.stanford.edu/class/cs224w-2019/), where slides are available.
 - [Lecture 1 Introduction; Structure of Graphs](https://www.youtube.com/watch?v=uEPPnR22fxg&list=PL-Y8zK4dwCrQyASidb2mjj_itW2-YYx6-&index=1)
@@ -32,7 +32,7 @@ Here is a [playlist](https://www.youtube.com/watch?v=uEPPnR22fxg&list=PL-Y8zK4dw
 - [Lecture 19 Applications of Graph Neural Networks](https://www.youtube.com/watch?v=p2aqXKfRXEA&list=PL-Y8zK4dwCrQyASidb2mjj_itW2-YYx6-&index=19)
 
 
-Recommended reading from the [course page](http://snap.stanford.edu/class/cs224w/)
+Recommended reading from the [course page](https://web.stanford.edu/class/cs224w/)
 -   [Graph Representation Learning](https://www.cs.mcgill.ca/~wlh/grl_book/) by William L. Hamilton
 -   [Networks, Crowds, and Markets: Reasoning About a Highly Connected World](http://www.cs.cornell.edu/home/kleinber/networks-book/) by David Easley and Jon Kleinberg
 -   [Network Science](http://networksciencebook.com/) by Albert-László Barabási

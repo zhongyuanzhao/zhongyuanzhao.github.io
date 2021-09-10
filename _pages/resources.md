@@ -9,9 +9,12 @@ Some useful and fun stuff.
 # Computer Science
 ## Deep learning
 - [deeplearning.ai](https://www.deeplearning.ai), online courses for artificial intelligence, founded by Andrew Yan-Tak Ng (Chinese: 吳恩達)
-- [Stanford Network Analysis Project](http://snap.stanford.edu/), collection of resources for machine learning on graphs
+- Stanford 
+  - [Stanford Network Analysis Project](http://snap.stanford.edu/), collection of resources for machine learning on graphs
+  - [Open Graph Benchmark](https://ogb.stanford.edu/) Benchmark datasets, data loaders and evaluators for graph machine learning
+  - [CS224W: Machine Learning with Graphs](https://web.stanford.edu/class/cs224w/)
+- UPenn ESE514 [ Graph neural networks](https://gnn.seas.upenn.edu/)
 - [Deep Graph Library](https://dgl.ai)
-- [Open Graph Benchmark](https://ogb.stanford.edu/) Benchmark datasets, data loaders and evaluators for graph machine learning
 - [towards data science](https://towardsdatascience.com/)
 
 ## Coding
