@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "I'm Zhongyuan, I do research in"
+title: "Hi, I'm Zhongyuan, "
 excerpt: "Biography"
 author_profile: true
 redirect_from:
@@ -9,12 +9,19 @@ redirect_from:
 ---
 {% include base_path %}
 
-wireless communications and networks, with a focus on machine learning for the next generation wireless communications and networked systems in general. My current research interests include: 1) developing intelligent wireless networks with improved performance, efficiency, scalability, and autonomy, and 2) applying machine learning for various tasks in the context of networks, which can be of many types including physical, engineered, information, social, biological, and economic networks.
+a postdoc in the [ECE department](https://eceweb.rice.edu/) at Rice University. My research covers wireless communications, signal processing, and machine learning (artifical intelligence). Here are a few topics I recently worked on: 
+- [automomous networking through machine learning over networks (graphs)](https://arxiv.org/abs/2109.05536)
+- [radio frequency machine learning](/publications/2018-10-23-Deep-Waveform.html)
+- [cloud radio access networks](/publications/2020-10-23-CoSeC-RAN.html)
+- [dynamic spectrum access](/publications/2019-02-01-CogTV.html)
+- [vehicular communications](/publications/2018-09-01-Vehicle-to-Barrier.html)
+
+I am also interested in new approaches for machine learning in general, and its applications beyond radio networks. Graph neural networks (geometric deep learning) is one such area with many applications in information, social, biological, and economic networks.
+
+My current advisor is [Santiago Segarra](http://segarra.rice.edu/), and I finished my Ph.D. program under the advise of [Mehmet C. Vuran](http://cse.unl.edu/~mcvuran/) (13-19). A few years back, I had been advised by [Zishu He](https://ieeexplore.ieee.org/author/37086032055) in a research-based master program (06-09), and by [Zhuming Chen](https://ieeexplore.ieee.org/author/37291477800) in China's national undergraduate electronic design competition (national 1st-class prize in 2005).
 
 
-Currently, I am a Postdoctoral Research Associate in the Department of Electrical and Computer Engineering at Rice University. I work with [Prof. Santiago Segarra](http://segarra.rice.edu/) on autonomous networking, with a focus on resource allocation in wireless networks. I completed my Ph.D. in the Department of Computer Science and Engineering at the University of Nebraska-Lincoln in 2019, under the guidance of [Prof. Mehmet C. Vuran](http://cse.unl.edu/~mcvuran/). My Ph.D. research is focused on [dynamic spectrum sharing]({{site.baseurl}}/portfolio/cognitive-radio-networks/), [large-scale wireless testbed and radio frequency machine learning](https://cpn.unl.edu/projects/cosec). Before moving to the U.S., I earned my B.Sc. and M.Sc. in Electronic Engineering from the [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), and then worked in ArrayComm and Ericsson, respectively, as an engineer developing the 4th generation wireless base-stations.
-
-I am actively searching for a job in academia or industry. Here is my [CV]({{site.baseurl}}/files/zhongyuanzhao-cv.pdf).
+Here is my [CV]({{site.baseurl}}/files/zhongyuanzhao-cv.pdf).
 
 Recent Posts
 ======
