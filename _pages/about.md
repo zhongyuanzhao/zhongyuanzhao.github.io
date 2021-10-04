@@ -18,7 +18,7 @@ a postdoc in the [ECE department](https://eceweb.rice.edu/) at Rice University. 
 
 I am also interested in new approaches for machine learning in general, and its applications beyond radio networks. Graph neural networks (geometric deep learning) is one such area with many applications in information, social, biological, and economic networks.
 
-My current advisor is [Santiago Segarra](http://segarra.rice.edu/), and I finished my Ph.D. program under the advise of [Mehmet C. Vuran](http://cse.unl.edu/~mcvuran/) (13-19). A few years back, I had been advised by [Zishu He](https://ieeexplore.ieee.org/author/37086032055) in a research-based master program (06-09), and by [Zhuming Chen](https://ieeexplore.ieee.org/author/37291477800) in China's national undergraduate electronic design competition (national 1st-class prize in 2005).
+My current advisor is [Santiago Segarra](http://segarra.rice.edu/), and I finished my Ph.D. program under the advise of [Mehmet C. Vuran](http://cse.unl.edu/~mcvuran/) (13-19). A few years back, I had been advised by [Zishu He](https://ieeexplore.ieee.org/author/37086032055) in a research-based master program (06-09), and by [Zhuming Chen](https://ieeexplore.ieee.org/author/37291477800) in China's national undergraduate electronic design contest (national 1st-class prize in 2005).
 
 
 Here is my [CV]({{site.baseurl}}/files/zhongyuanzhao-cv.pdf).
