@@ -9,7 +9,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-a postdoc in the [ECE department](https://eceweb.rice.edu/) at Rice University. My research covers wireless communications, signal processing, and machine learning (artifical intelligence). Here are a few topics I recently worked on: 
+a postdoc in the [ECE department](https://eceweb.rice.edu/) at Rice University. I am generally interested in systems and my research covers wireless communications, signal processing, and machine learning (artifical intelligence). Here are a few topics I recently worked on: 
 - [automomous networking through machine learning over networks (graphs)](https://arxiv.org/abs/2109.05536)
 - [radio frequency machine learning](/publications/2018-10-23-Deep-Waveform.html)
 - [cloud radio access networks](/publications/2020-10-23-CoSeC-RAN.html)
@@ -23,12 +23,12 @@ My current advisor is [Santiago Segarra](http://segarra.rice.edu/), and I finish
 
 Here is my [CV]({{site.baseurl}}/files/zhongyuanzhao-cv.pdf).
 
-Recent Posts
+Recent 
 ======
 
 <ul>
 {% assign posts = site.posts %}
-{% assign news = site.news | concat: posts | sort: "date" %}
+{% assign news = site.news | concat: posts | sort: "date" | reverse %}
 
 {% for post in news limit:20  %}
     <li>      
