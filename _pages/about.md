@@ -29,14 +29,14 @@ My current advisor is [Santiago Segarra](http://segarra.rice.edu/), and I finish
 ---
 
 
-Recent 
+Recent news
 ======
 
 <ul>
 {% assign posts = site.posts %}
 {% assign news = site.news | concat: posts | sort: "date" | reverse %}
 
-{% for post in news limit:20  %}
+{% for post in news limit:10  %}
     <li>      
 	<span class="archive__item-title" itemprop="headline">
       {% if post.link %}
