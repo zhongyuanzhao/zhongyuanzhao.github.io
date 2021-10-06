@@ -16,7 +16,7 @@ a postdoc in the [ECE department](https://eceweb.rice.edu/) at Rice University. 
 - dynamic spectrum access ([IEEE TVT](https://doi.org/10.1109/TVT.2019.2892867), [post](/publications/2019-02-01-CogTV.html))
 - vehicular communications ([j.comcom](https://doi.org/10.1016/j.comcom.2018.05.009), [post](/publications/2018-09-01-Vehicle-to-Barrier.html))
 
-My past and current work seek to make wireless communications more alive and fun (both the outcome and the process of research), rather than just a collection of (dead) standards and protocols. 
+My past and current work seeks to make wireless communications more alive and fun (both the outcome and the process of research), rather than just a collection of (dead) standards and protocols. 
 I am also interested in deep learning itself and its applications beyond radio. 
 
 My current advisor is [Santiago Segarra](http://segarra.rice.edu/), and I finished my Ph.D. program under the advise of [Mehmet C. Vuran](http://cse.unl.edu/~mcvuran/) (13-19). A few years back, I was advised by [Zishu He](https://ieeexplore.ieee.org/author/37086032055) in a research-based master program (06-09), and by [Zhuming Chen](https://ieeexplore.ieee.org/author/37291477800) in China's national undergraduate electronic design contest (2005), in which my team was awarded the national 1st-class prize.
