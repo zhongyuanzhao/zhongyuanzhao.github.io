@@ -1,7 +1,8 @@
 ---
 title: 'Our paper "A City-Wide Experimental Testbed for The Next Generation Wireless Networks" is published on Journal of Ad Hoc Networks'
 date: 2020-10-29
-permalink: /posts/2020/10/cosecran-paper-accepted/
+collection: news
+permalink: /news/2020/10/cosecran-paper-accepted/
 tags:
   - Cloud Radio Access Networks
   - news

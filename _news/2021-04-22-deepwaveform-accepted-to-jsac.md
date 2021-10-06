@@ -1,7 +1,8 @@
 ---
 title: 'Our work "Deep-Waveform: A Learned OFDM Receiver Based on Deep Complex Convolutional Networks" is accepted to IEEE Journal on Selected Areas in Communications.'
 date: 2021-04-22
-permalink: /posts/2021/04/deepwaveform-paper-accepted-to-ieee-jsac/
+collection: news
+permalink: /news/2021/04/deepwaveform-paper-accepted-to-ieee-jsac/
 tags:
   - radio frequency machine learning
   - complex-valued neural networks

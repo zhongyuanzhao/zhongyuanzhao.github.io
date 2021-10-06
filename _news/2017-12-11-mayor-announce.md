@@ -1,7 +1,8 @@
 ---
 title: 'Lincoln Named Smart Gigabit Community'
 date: 2017-12-11
-permalink: /posts/2017/12/news-mayer-announce/
+collection: news
+permalink: /news/2017/12/news-mayer-announce/
 tags:
   - cosecran
   - nextt

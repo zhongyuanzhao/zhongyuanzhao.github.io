@@ -1,7 +1,8 @@
 ---
 title: 'Smart Barriers Show Potential To Reduce ‘Run-Off-Road’ Vehicle Crashes'
 date: 2018-11-28
-permalink: /posts/2018/11/news-smart-barriers/
+collection: news
+permalink: /news/2018/11/news-smart-barriers/
 tags:
   - V2B
   - news

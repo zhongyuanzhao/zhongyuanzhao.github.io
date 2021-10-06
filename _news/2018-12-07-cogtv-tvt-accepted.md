@@ -1,7 +1,8 @@
 ---
 title: 'Our paper "Shades of White: Impacts of Population Dynamics and TV Viewership on Available TV Spectrum" is accepted by IEEE Transactions on Vehicular Technology!'
 date: 2018-12-07
-permalink: /posts/2018/12/news-cogtv-journal-accepted/
+collection: news
+permalink: /news/2018/12/news-cogtv-journal-accepted/
 tags:
   - Cog-TV
   - cosecran

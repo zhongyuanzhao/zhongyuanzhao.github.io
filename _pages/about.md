@@ -28,7 +28,9 @@ Recent Posts
 
 <ul>
 {% assign posts = site.posts %}
-{% for post in posts limit:20  %}
+{% assign news = site.news | concat: posts | sort: "date" %}
+
+{% for post in news limit:20  %}
     <li>      
 	<span class="archive__item-title" itemprop="headline">
       {% if post.link %}

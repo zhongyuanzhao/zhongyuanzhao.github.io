@@ -1,7 +1,8 @@
 ---
 title: 'Our manuscript entitled "Link Scheduling Using Graph Neural Networks" is submitted to IEEE Journal on Selected Topics in Signal Processing.'
 date: 2021-08-05
-permalink: /posts/2021/08/mwis-journal-submitted-to-ieee-jstsp/
+collection: news
+permalink: /news/2021/08/mwis-journal-submitted-to-ieee-jstsp/
 tags:
   - wirless ad-hoc networks
   - graph neural networks

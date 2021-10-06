@@ -1,7 +1,8 @@
 ---
 title: 'Our paper "Distributed Scheduling using Graph Neural Networks" is accepted by IEEE ICASSP 2021'
 date: 2021-01-30
-permalink: /posts/2021/01/news-icassp-2021/
+collection: news
+permalink: /news/2021/01/news-icassp-2021/
 tags:
   - wireless ad-hoc networks
   - graph neural networks

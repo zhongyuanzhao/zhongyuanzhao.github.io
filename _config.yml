@@ -121,6 +121,7 @@ author:
 include:
   - .htaccess
   - _pages
+  - _news
   - files
 exclude:
   - "*.sublime-project"
@@ -198,6 +199,17 @@ defaults:
   - scope:
       path: ""
       type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _news
+  - scope:
+      path: ""
+      type: news
     values:
       layout: single
       author_profile: true

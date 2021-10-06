@@ -1,7 +1,8 @@
 ---
 title: 'Nebraska Experimental Testbed of Things, known as NEXTT, named finalist for NSF program to expand rural broadband'
 date: 2020-07-27
-permalink: /posts/2020/07/nextt-news/
+collection: news
+permalink: /news/2020/07/nextt-news/
 tags:
   - Cloud Radio Access Networks
   - news

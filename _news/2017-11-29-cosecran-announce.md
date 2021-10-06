@@ -1,7 +1,8 @@
 ---
 title: 'US Ignite, Inc. Announces Lincoln, Nebraska will Join Rapidly Growing Network of Smart Gigabit Communities'
 date: 2017-11-29
-permalink: /posts/2017/11/news-cosecran-announce/
+collection: news
+permalink: /news/2017/11/news-cosecran-announce/
 tags:
   - cosecran
   - nextt
