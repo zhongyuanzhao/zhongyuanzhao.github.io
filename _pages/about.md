@@ -19,10 +19,10 @@ a postdoc in the [ECE department](https://eceweb.rice.edu/) at Rice University. 
 My past and current work seek to make wireless communications more alive and fun (both the outcome and the process of research), rather than just a collection of (dead) standards and protocols. 
 I am also interested in deep learning itself and its applications beyond radio. 
 
-My current advisor is [Santiago Segarra](http://segarra.rice.edu/), and I finished my Ph.D. program under the advise of [Mehmet C. Vuran](http://cse.unl.edu/~mcvuran/) (13-19). A few years back, I had been advised by [Zishu He](https://ieeexplore.ieee.org/author/37086032055) in a research-based master program (06-09), and by [Zhuming Chen](https://ieeexplore.ieee.org/author/37291477800) in China's national undergraduate electronic design contest (national 1st-class prize in 2005).
+My current advisor is [Santiago Segarra](http://segarra.rice.edu/), and I finished my Ph.D. program under the advise of [Mehmet C. Vuran](http://cse.unl.edu/~mcvuran/) (13-19). A few years back, I was advised by [Zishu He](https://ieeexplore.ieee.org/author/37086032055) in a research-based master program (06-09), and by [Zhuming Chen](https://ieeexplore.ieee.org/author/37291477800) in China's national undergraduate electronic design contest (2005), in which my team was awarded the national 1st-class prize.
 
 
-Here is my [CV]({{site.baseurl}}/files/zhongyuanzhao-cv.pdf).
+[Curriculum vitae]({{site.baseurl}}/files/zhongyuanzhao-cv.pdf)
 
 Recent 
 ======
