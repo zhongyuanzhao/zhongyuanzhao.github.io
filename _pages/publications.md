@@ -11,15 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-## Patents
----
-<ul>
-{% assign patents = site.publications | where: "category", "patent" %}
-{% for post in patents reversed %}
-    {% include archive-single-cv.html %}
-{% endfor %}
-</ul>
-
 ## Journal
 ---
 <ul>
@@ -52,6 +43,15 @@ author_profile: true
 <ul>
 {% assign conferences = site.publications | where: "category", "demo" %}
 {% for post in conferences reversed %}
+    {% include archive-single-cv.html %}
+{% endfor %}
+</ul>
+
+## Patents
+---
+<ul>
+{% assign patents = site.publications | where: "category", "patent" %}
+{% for post in patents reversed %}
     {% include archive-single-cv.html %}
 {% endfor %}
 </ul>
