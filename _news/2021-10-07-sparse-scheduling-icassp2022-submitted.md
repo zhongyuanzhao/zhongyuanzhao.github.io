@@ -15,11 +15,11 @@ tags:
 If you ever being in a crowded café or stadium, you may have experienced slow or broken Internet even with full signal on your smartphone or laptop. 
 This phenomenon boils down to a small scheduling overhead for every connection to the network.
 This overhead is not a big deal in wired networks, but for wireless networks, the per-connection overhead is typically proportional to the number of devices sharing the medium.
-That means you can not get 1/N share of the total bandwidth in wireless networks, where N is the number of active users. 
+That means you can not get 1/N share of the total bandwidth of wireless networks, where N is the number of active users. 
 In fact, if you keep increasing the number of wireless devices, the overhead will eventually take up all the spectrum, and the network is congested at the air-interface. 
 That's a big problem.
  
-Now, imagine that there are 10 million wireless connections per $km^2$ by 2030, mostly from Internet-of-Things (IoT) devices, nothing could get through the network even if their total traffic demand is theoretically well below the bandwidth of the network.
+Now, imagine that there will be 10 million wireless connections per $km^2$ by 2030, mostly from Internet-of-Things (IoT) devices, nothing could get through the network even if their total traffic demand is theoretically well below the bandwidth of the network.
 This is one of the biggest challenges for 5G and beyond wireless networks, termed as 'massive access' or 'massive connectivity'. (ref. [Chen 2021])
  
 In this submitted manuscript, we come up with a scalable scheduling scheme with reduced overhead for wireless multihop networks.
