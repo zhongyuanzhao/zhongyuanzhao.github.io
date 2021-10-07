@@ -14,7 +14,7 @@ I am a postdoc in the [ECE department](https://eceweb.rice.edu/) at Rice Univers
 Generally, I am interested in systems and my research covers wireless communications, signal processing, and machine learning (artifical intelligence). 
 Here are a few topics I recently worked on: 
 - automomous networking with deep learning on graphs (networks) ([arXiv](https://arxiv.org/abs/2109.05536), [ICASSP](https://doi.org/10.1109/ICASSP39728.2021.9414098))
-- radio frequency machine learning ([IEEE JSAC](https://doi.org/10.1109/JSAC.2021.3087241), [arXiv](Preprint), [git](https://github.com/zhongyuanzhao/dl_ofdm), [post](/publications/2018-10-23-Deep-Waveform.html))
+- radio frequency machine learning ([IEEE JSAC](https://doi.org/10.1109/JSAC.2021.3087241), [arXiv](https://arxiv.org/abs/1810.07181), [git](https://github.com/zhongyuanzhao/dl_ofdm), [post](/publications/2018-10-23-Deep-Waveform.html))
 - cloud radio access networks ([j.adhoc](https://doi.org/10.1016/j.adhoc.2020.102305), [post](/publications/2020-10-23-CoSeC-RAN.html))
 - dynamic spectrum access ([IEEE TVT](https://doi.org/10.1109/TVT.2019.2892867), [post](/publications/2019-02-01-CogTV.html))
 - vehicular communications ([j.comcom](https://doi.org/10.1016/j.comcom.2018.05.009), [post](/publications/2018-09-01-Vehicle-to-Barrier.html))
