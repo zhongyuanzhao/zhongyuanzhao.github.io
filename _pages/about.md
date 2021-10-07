@@ -49,6 +49,7 @@ Recent news
     </li>
 {% endfor %}
 </ul>
+[more...](/news/)
 
 A little bit more about me
 ======
