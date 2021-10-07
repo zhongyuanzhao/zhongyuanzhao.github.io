@@ -16,7 +16,7 @@ If you ever being in a crowded café or stadium, you may have experienced slow o
 This phenomenon boils down to a small scheduling overhead for every connection to the network.
 This overhead is not a big deal in wired networks, but for wireless networks, the per-connection overhead is typically proportional to the number of devices sharing the medium.
 That means you can not get $1/N$ of the total bandwidth of wireless networks, where $N$ is the number of active wireless devices. 
-In fact, if you keep increasing $N$, the overhead would eventually take up all the resources, leaving a network congested over-the-air. 
+In fact, if you keep increasing $N$, the overhead would grow and eventually take up all the resources, leaving a network congested over-the-air. 
 The network needs to limit the maximum nubmer of admitted users to prevent this from happening. 
 That's a big problem.
  
