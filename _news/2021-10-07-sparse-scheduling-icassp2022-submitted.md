@@ -33,7 +33,7 @@ However, with Graph Neural Networks, the parameters (maybe suboptimal) can be ge
 The idea of using a neural network (slow network) to generate weights for another neural network(s) (fast network) can be traced back to Jürgen Schmidhuber's 1991 paper (ref. [FWP0]). Checkout his recent post [26 March 1991: Neural nets learn to program neural nets with fast weights—like today's Transformer variants. 2021: New stuff!](https://people.idsia.ch/~juergen/fast-weight-programmer-1991-transformer.html). 
 While with a slow network being Graph Neural Networks, we might be able to automatically configure individual nodes in a network to improve the performance of the entire system.
 
-The preprint and source code will hopefully be online soon. Thanks for the help of my co-authors, Gunjan Verma, Ananthram Swami, and Santiago Segarra, to put this together. 
+The preprint and source code will hopefully be online soon. Thanks for the help of my co-authors, Ananthram Swami, and Santiago Segarra, to put this together. 
 
 ---
 - [Chen 2021] X. Chen, D. W. K. Ng, W. Yu, E. G. Larsson, N. Al-Dhahir,and R. Schober, “Massive access for 5g and beyond,”IEEE Journal of Selected Areas in Communications, vol. 39, no. 3, pp. 615–637, 2021.
