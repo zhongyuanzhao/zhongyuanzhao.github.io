@@ -15,14 +15,16 @@ tags:
 If you ever being in a crowded café or stadium, you may have experienced slow or broken Internet even with full signal on your smartphone or laptop. 
 This phenomenon boils down to a small scheduling overhead for every connection to the network.
 This overhead is not a big deal in wired networks, but for wireless networks, the per-connection overhead is typically proportional to the number of devices sharing the medium.
-That means you can not get 1/N share of the total bandwidth of wireless networks, where N is the number of active users. 
-In fact, if you keep increasing the number of wireless devices, the overhead will eventually take up all the spectrum, and the network is congested at the air-interface. 
+That means you can not get $1/N$ of the total bandwidth of wireless networks, where $N$ is the number of active wireless devices. 
+In fact, if you keep increasing $N$, the overhead would eventually take up all the resources, leaving a network congested over-the-air. 
+The network needs to limit the maximum nubmer of admitted users to prevent this from happening. 
 That's a big problem.
  
-Now, imagine that there will be 10 million wireless connections per $km^2$ by 2030, mostly from Internet-of-Things (IoT) devices, nothing could get through the network even if their total traffic demand is theoretically well below the bandwidth of the network.
+Now, imagine that there will be 10 million wireless connections per $km^2$ by 2030, mostly from Internet-of-Things (IoT) devices. 
+In that scenario, nothing could get through the network even if their total traffic demand is theoretically well below the bandwidth of the network.
 This is one of the biggest challenges for 5G and beyond wireless networks, termed as 'massive access' or 'massive connectivity'. (ref. [Chen 2021])
  
-In this submitted manuscript, we come up with a scalable scheduling scheme with reduced overhead for wireless multihop networks.
+In this work, we come up with a scalable scheduling scheme with reduced overhead for wireless multihop networks.
 Generally, our solution can reduce the overhead by two orders of magnitude while retain almost $70\%$ of the network capacity, and is applicable to both synchronized and random access networks.
 Wireless multihop networks are infrastructureless, self-organizing wireless networks, which have been used for wireless networks in harsh/hostile environments, e.g. military communications, disaster relief, environmental and border monitoring.
 In the future wireless ecosystem, wireless multihop networks will also play a bigger role, e.g., to support IoT, connected vehicles, drones, wireless backhaul for 5G and beyond (small cells, mmWave, satellite constellation). (ref. [Akyildiz 2022])
