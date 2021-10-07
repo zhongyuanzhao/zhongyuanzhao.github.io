@@ -34,7 +34,7 @@ In our case, the decision is whether or not join the contention for scheduling--
 Conventionally, one would get these parameters through centralized or distributed optimization, both require thousands of rounds of message exchanges.
 However, with Graph Neural Networks, the parameters (maybe suboptimal) can be generated in a distributed manner with as low as a single round of message exchanges, even asynchronously by listening to the neighborhood.
 The idea of using a neural network (slow network) to generate weights for another neural network(s) (fast network) can be traced back to Jürgen Schmidhuber's 1991 paper (ref. [FWP0]). Checkout his recent post [26 March 1991: Neural nets learn to program neural nets with fast weights—like today's Transformer variants. 2021: New stuff!](https://people.idsia.ch/~juergen/fast-weight-programmer-1991-transformer.html). 
-While with a slow network being Graph Neural Networks, we might be able to automatically configure individual nodes in a network to improve the performance of the entire system.
+With a slow network made of Graph Neural Networks, we might be able to automatically configure individual nodes in a network to improve the performance of the entire system.
 
 The preprint and source code will hopefully be online soon. I would thank my co-authors, Ananthram Swami, and Santiago Segarra, to put this work together. 
 
