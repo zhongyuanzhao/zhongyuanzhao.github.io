@@ -59,5 +59,4 @@ A little bit more about me
 ======
 
 I like [finance](/portfolio/business-education/), sports, and reading.
-        <i class="fa fa-rss" aria-hidden="true"></i>
-        <i class="fa fa-envelope-open" aria-hidden="true"></i>
+
