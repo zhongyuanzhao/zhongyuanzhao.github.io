@@ -29,7 +29,7 @@ My current advisor is [Santiago Segarra](http://segarra.rice.edu/), and I finish
 ---
 
 
-Recent news
+Recent news <i class="fa fa-rss" aria-hidden="true"></i>
 ======
 
 <ul>
@@ -38,14 +38,18 @@ Recent news
 
 {% for post in news limit:10  %}
     <li>      
-	<span class="archive__item-title" itemprop="headline">
-      {% if post.link %}
+    {% if post.date %}<i style="color: gray;font-size: 0.7em;">{{ post.date | date: '%Y-%m-%d' }}</i> {% endif %}
+    {% if post.collection == "news" %}
+    {% else %}
+      <i class="fa fa-bookmark" aria-hidden="true"></i>
+    {% endif %}
+	  <span class="archive__item-title" itemprop="headline">
+    {% if post.link %}
         <a href="{{ post.link }}">{{ post.title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
-      {% else %}
+    {% else %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>
-      {% endif %}
+    {% endif %}
     </span>
-    {% if post.date %}<i style="color: gray;font-size: 0.7em;">{{ post.date | date: '%B %d, %Y' }}</i> {% endif %}
     </li>
 {% endfor %}
 </ul>
@@ -55,3 +59,5 @@ A little bit more about me
 ======
 
 I like [finance](/portfolio/business-education/), sports, and reading.
+        <i class="fa fa-rss" aria-hidden="true"></i>
+        <i class="fa fa-envelope-open" aria-hidden="true"></i>
