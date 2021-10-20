@@ -11,19 +11,19 @@ author_profile: true
 
 {% include base_path %}
 
-## Journal
+## Under review
 ---
 <ul>
-{% assign journals = site.publications | where: "category", "journal" %}
+{% assign journals = site.publications | where: "category", "preprint" %}
 {% for post in journals reversed %}
     {% include archive-single-cv.html %}
 {% endfor %}
 </ul>
 
-## Preprint
+## Journal
 ---
 <ul>
-{% assign journals = site.publications | where: "category", "preprint" %}
+{% assign journals = site.publications | where: "category", "journal" %}
 {% for post in journals reversed %}
     {% include archive-single-cv.html %}
 {% endfor %}
