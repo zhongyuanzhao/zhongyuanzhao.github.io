@@ -34,6 +34,10 @@ Some useful and fun stuff.
 # Mathematics
 - [Michel Bierlaire's lecture on Duality](https://www.youtube.com/watch?v=nClTjGznkTo&list=PL10NOnsbP5Q61XSVk-3yNOY2qLI-wTM6k) highly recommended
 - [Mathematics Genealogy Project](https://genealogy.math.ndsu.nodak.edu/)
+- [Common Derivatives and Integrals](https://tutorial.math.lamar.edu/pdf/common_derivatives_integrals.pdf)
+
+# Signal Processing
+- One World Signal Processing Seminar Series, [link](https://www1.se.cuhk.edu.hk/~htwai/oneworld/)
 
 
 # MOOC (massive open online course)
@@ -44,3 +48,5 @@ Some useful and fun stuff.
 - [Open Yale Courses](https://oyc.yale.edu/)
 - [Harvard Online Courses](https://online-learning.harvard.edu/)
 - [MIT Open Courseware](https://ocw.mit.edu/index.htm), [MIT Open Learning](https://openlearning.mit.edu/)
+
+
