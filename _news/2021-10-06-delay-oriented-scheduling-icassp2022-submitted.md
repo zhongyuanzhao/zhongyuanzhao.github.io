@@ -11,4 +11,10 @@ tags:
   - news
 ---
 
-The preprint and source code will hopefully be online soon. Thanks for the help of my co-authors, Gunjan Verma, Ananthram Swami, and Santiago Segarra, in putting this work together. 
+Preprint: <https://arxiv.org/pdf/2111.07017>
+
+The source code will be online soon. 
+
+
+Thanks for the help of my co-authors, Gunjan Verma, Ananthram Swami, and Santiago Segarra, in putting this work together. 
+
