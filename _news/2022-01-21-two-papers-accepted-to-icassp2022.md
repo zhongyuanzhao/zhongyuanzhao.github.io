@@ -13,6 +13,6 @@ tags:
   - news
 ---
 
-Our papers ["Delay-Oriented Distributed Scheduling Using Graph Neural Networks"](/publications/2021-10-07-delay-oriented-distributed-scheduling-using-gcn.html) and ["Distributed Link Sparsification for Scalable Scheduling Using Graph Neural Networks"](/publications/2021-10-08-distributed-link-sparsification-for-scalable-scheduling-using-gcn.html) are both accepted by ICASSP 2022. 
+Our papers ["Delay-Oriented Distributed Scheduling Using Graph Neural Networks"](/publications/2021-10-07-delay-oriented-distributed-scheduling-using-gcn.html) and ["Distributed Link Sparsification for Scalable Scheduling Using Graph Neural Networks"](/publications/2021-10-08-distributed-link-sparsification-for-scalable-scheduling-using-gcn.html) are both accepted by [ICASSP 2022](https://2022.ieeeicassp.org/). 
 
 This is the first news in 2022 and a really good news. 
