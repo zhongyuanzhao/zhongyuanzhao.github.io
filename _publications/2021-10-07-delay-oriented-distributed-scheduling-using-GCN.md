@@ -1,11 +1,11 @@
 ---
 title: "Delay-Oriented Distributed Scheduling using Graph Neural Networks"
-category: 'preprint'
+category: 'conference'
 collection: publications
 permalink: /publications/2021-10-07-delay-oriented-distributed-scheduling-using-gcn.html
 excerpt: ''
-date: 2021-10-07
-venue: 'arXiv'
+date: 2022-05-22
+venue: 'IEEE ICASSP 2022'
 paperurl: 'https://arxiv.org/abs/2111.07017'
 citation: 'Zhongyuan Zhao, Gunjan Verma, Ananthram Swami, Santiago Segarra, &quot; Delay-Oriented Distributed Scheduling Using Graph Neural Networks,&quot; submitted to <i>IEEE ICASSP 2022</i>, arXiv: 2111.07017'
 ---
