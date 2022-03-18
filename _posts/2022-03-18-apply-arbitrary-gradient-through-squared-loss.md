@@ -9,7 +9,7 @@ tags:
   - squared loss
 ---
 
-Author: [Zhongyuan Zhao](https://zhongyuanzhao.com)
+By [Zhongyuan Zhao](https://zhongyuanzhao.com)
 
 ## TL;DR
 Sometimes, especially in reinforcement learning, you have a non-differentiable loss/objective function with regard to (w.r.t.) the final or intermediate output $\mathbf{y}$ of your downstream machine learning pipeline. 
