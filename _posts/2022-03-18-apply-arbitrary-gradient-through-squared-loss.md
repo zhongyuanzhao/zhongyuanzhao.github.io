@@ -57,7 +57,7 @@ This is because in reinforcement learning, your objective is often to maximize o
 
 If you are working on some customized or non-differentiable loss/objective function for your ML problem, you may find it quite burdensome to go beyond the most commonly used set of pre-defined loss functions in *Tensorflow* and *PyTorch*. In *Tensorflow 2*, you need to learn the topic of [advanced automatic differentiation](https://www.tensorflow.org/guide/advanced_autodiff) and work with the `tf.GradientTape` API and `apply_gradients` function. In *PyTorch*, you need to [define new autograd functions](https://pytorch.org/tutorials/beginner/examples_autograd/polynomial_custom_function.html). 
 
-## Apply Gradient with Squared Loss
+## Apply custom gradient through squared Loss
 
 Let's say you have worked out a way to approximate (or guess) the gradient of a blackbox loss or objective function. You prefer to implement your method with the package of *numpy* rather than the built-in functions of *Tensorflow* or *PyTorch*. The former may be more efficient in runtime and more comprehensive in functionality than the latter.
 
@@ -79,6 +79,6 @@ This is because in the case of exploiation, where $\tilde{\mathbf{y}}^{(t)}=\mat
   \end{equation}
 </p>
 
-## Open Question
+## Open question
 
 Would \eqref{eq:loss} work for the case of exploration, where $\tilde{\mathbf{y}}^{(t)}\neq\mathbf{y}^{(t)}=f(\mathbf{X}^{(t)};\mathbb{\Theta})$? Honestly, I don't know. Maybe we can just try \eqref{eq:loss} or scale $\mathbf{\delta}$ in \eqref{eq:loss} by a small constant $0<\varepsilon<1$.
