@@ -12,8 +12,8 @@ tags:
 By [Zhongyuan Zhao](https://zhongyuanzhao.com)
 
 ## TL;DR
-Sometimes, especially in reinforcement learning, you have a non-differentiable loss/objective function with regard to (w.r.t.) the final or intermediate output $\mathbf{y}$ of the downstream machine learning (ML) pipeline. 
-For example, a custom gradient, $\mathbf{\delta} = \nabla_{\mathbf{y}}l_{b}(\mathbf{y}, r)$, may depend on the feedback $r$ from the environment or some blackbox process, in which the automatic differentiation in *Tensorflow* and *PyTorch* will just generates zero gradient.
+In some machine learning (ML) problems, such as [policy gradient](https://spinningup.openai.com/en/latest/spinningup/rl_intro3.html) reinforcement learning algorithms, you may have a non-differentiable loss/objective function with regard to (w.r.t.) the final or intermediate output $\mathbf{y}$ of the downstream machine learning (ML) pipeline. 
+For example, a custom gradient, $\mathbf{\delta} = \nabla_{\mathbf{y}}l_{b}(\mathbf{y}, r)$, may depend on the feedback $r$ from the environment or some blackbox process, therefore can not be implemented via the automatic differentiation in *Tensorflow* and *PyTorch*.
 A quick trick to apply artibrary gradient $\mathbf{\delta}$ in backpropagation is using squared loss:
 <p>
   \begin{equation*}
@@ -62,13 +62,13 @@ You need first convert your data to tensor and then perform operations on the te
 
 ## Apply custom gradient through squared Loss
 
-Let's say you have worked out a formula to approximate (or guess) the gradient of a blackbox loss or objective function w.r.t. the prediction, $\nabla_{\mathbf{y}} l_{b}(\mathbf{y}, r)=\frac{\partial l_{b}(\mathbf{y}, r)}{\partial \mathbf{y}}$, which by the way is the major effort in some ML problems. 
+Let's say you have worked out a formula to approximate (or guess) the gradient of a blackbox loss or objective function w.r.t. the prediction, $\nabla_{\mathbf{y}} l_{b}(\mathbf{y}, r)=\frac{\partial l_{b}(\mathbf{y}, r)}{\partial \mathbf{y}}$, which by the way is the major effort of [policy gradient](https://spinningup.openai.com/en/latest/algorithms/vpg.html) reinforcement learning algorithm. 
 You may prefer to implement that formula with the numerical packages like *numpy* and *scipy* rather than the built-in functions of *Tensorflow* or *PyTorch*, since the former may have better performance and/or functionality than the latter, or the former makes debugging much easier.
 
 
 In a reinforcement learning or customized learning setting, you first collect the experience tuples of state (input data), action (prediction), and reward, $<\mathbf{X}^{(t)}, \tilde{\mathbf{y}}^{(t)}, r^{(t)}>$ for $t=0,\dots,T$, and then compute (or guess) the derivative of your loss/objective function w.r.t. the action (prediction) as $\mathbf{\delta} = l_{b}(\tilde{\mathbf{y}}, r)$.
 Note that with exploration, the actual prediction $\tilde{\mathbf{y}}^{(t)}$ does not necessarily equal to the output $\mathbf{y}^{(t)}=f(\mathbf{X}^{(t)};\mathbb{\Theta})$.
-Instead of implementing your gradient estimation entirely in Tensorflow or PyTorch, you can first compute the gradient $\mathbb{\delta}^{(t)}$ with whatever packages you like, then convert it into a tensor and apply it to the backpropagation through an off-the-shelf optimizer and the built-in [mean squared loss](https://www.tensorflow.org/api_docs/python/tf/keras/losses/MeanSquaredError) or the following squared loss: 
+Instead of implementing your gradient estimation entirely in Tensorflow or PyTorch, you can first compute the gradient $\mathbb{\delta}^{(t)}$ with whatever packages you like, then plug it into a `placeholder` and apply it to the backpropagation through an off-the-shelf optimizer and the built-in [mean squared loss](https://www.tensorflow.org/api_docs/python/tf/keras/losses/MeanSquaredError) or the following squared loss: 
 
 <p>
   \begin{equation}
