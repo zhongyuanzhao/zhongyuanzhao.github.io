@@ -62,7 +62,7 @@ You need first convert your data to tensor and then perform operations on the te
 
 ## Apply custom gradient through squared Loss
 
-Let's say you have worked out a formula to approximate (or guess) the gradient of a blackbox loss or objective function w.r.t. the prediction--the major effort of developing some new ML idea. 
+Let's say you have worked out a formula to approximate (or guess) the gradient of a blackbox loss or objective function w.r.t. the prediction, $\nabla_{\mathbf{y}} l_{b}(\mathbf{y}, r)=\frac{\partial l_{b}(\mathbf{y}, r)}{\partial \mathbf{y}}$, which by the way is the major effort in some ML problems. 
 You may prefer to implement that formula with the numerical packages like *numpy* and *scipy* rather than the built-in functions of *Tensorflow* or *PyTorch*, since the former may have better performance and/or functionality than the latter, or the former makes debugging much easier.
 
 
