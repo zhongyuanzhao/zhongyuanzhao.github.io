@@ -12,6 +12,9 @@ tags:
   - news
 ---
 
+Preprint: <https://arxiv.org/abs/2203.14339>
+
+
 If you ever being in a crowded café or stadium, you may have experienced slow or broken Internet even with full signal on your smartphone or laptop. 
 This phenomenon boils down to a small scheduling overhead for every connection to the network.
 This overhead is not a big deal in wired networks, but for wireless networks, the per-connection overhead is typically proportional to the number of devices sharing the medium.
