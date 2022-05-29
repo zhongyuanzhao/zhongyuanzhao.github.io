@@ -33,21 +33,21 @@ Wireless networks are analogous to the coffee shop scenario, where wireless devi
 
 Many engineering systems are organized top-down. For example, in railway systems and cellular networks, the physical and data traffics flow in pre-planned networks, following the instructions of dedicated schedulers. Without the infrastructure, the physical or data payloads can not move on their own. However, as long as the infrastructure is in place and functions properly, the entire system can be very efficient in resource utilization. Think about the average labor and energy costs of moving a passenger for 1 km by train and by cars. 
 
-The infrastructure of the 5th generation (5G) cellular networks is called cloud radio access network (Fig. 2). Cloud-RAN comprises base-stations connected to the telecommunication network and the Internet through wired/wireless fronthaul and backhaul networks. Each base-station provides network connectivity to mobile devices in a macro or small cell. Cellular network operators carefully plan and layout signal cells in a market based on factors like population density and terrain, to optimize the coverage, bandwidth, cost, and flexibility of the cellular network. This process is called network optimization.
+The infrastructure of the 5th generation (5G) cellular networks is called cloud radio access network (Cloud-RAN), as illustrated in Fig. 2. Cloud-RAN comprises base-stations connected to the telecommunication network and the Internet through wired/wireless fronthaul and backhaul networks. Each base-station provides network connectivity to mobile devices in a macro or small cell (see Fig. 2). Cellular network operators carefully plan and layout these cells in a market based on factors like population density and terrain, to optimize the coverage, bandwidth, cost, and flexibility of their cellular networks. This process is called _network optimization_.
 
 <figure>
 <img src="/images/5g_metis.jpeg" alt="infrastructure-based networks" style="width:600px" class="center">
 <figcaption align = "center"><b>Fig.2 - Infrastructure-based network: 5G cloud radio access network (Cloud-RAN).</b></figcaption>
 </figure>
 
-To maximize the resource utilization in networks, such as bandwidth and energy, a cellular base-station schedules the transmission of each mobile device attached to it, and manages their radio parameters. 
+To maximize the resource utilization in networks, such as bandwidth and energy, a cellular base-station schedules the transmission of mobile devices attached to it, and manages their radio parameters as well. 
 To do so, cellular base-station is equipped with descent real-time computing power, dedicated backhaul network, and high performance radio transceivers.
 To run a cellular network, it requires a huge upfront investment and years of construction, as well as continuous maintenance and upgrading. 
 
-Unlike the cellular network, Wi-Fi networks are organized bottom-up and are much cheaper. Anyone can install a Wi-Fi router (access point) at home.
+Unlike the cellular network, Wi-Fi networks are organized bottom-up. Anyone can install a Wi-Fi router (access point) at home.
 The medium access control (MAC, or media access control) of Wi-Fi is self-organized, meaning that a Wi-Fi access point does not schedule transmissions or manage the parameters of the mobile devices attached to it. 
 When a Wi-Fi device has data packets to transmit, it first listens to the medium (wireless channel) for a brief time, if there is no conversation in the background, it then starts transmission, otherwise it waits for a while and then tries again. 
-The self-organizing feature of Wi-Fi makes a Wi-Fi access point a 1000 time cheaper than a cellular base-station, and that's why Wi-Fi is so successful. In fact, it is estimated that as of 2022, 51% of Internet traffic goes through Wi-Fi, while only 19.6% of that goes through cellular networks. 
+The self-organizing feature of Wi-Fi makes a Wi-Fi access point a 1000 time cheaper than a cellular base-station, and that's why Wi-Fi is so successful. In fact, it is estimated that as of 2022, 51% of Internet traffic goes through Wi-Fi, while only 19.6% of that goes through cellular networks. [[Cisco VNI report, 2017-2022](https://twiki.cern.ch/twiki/pub/HEPIX/TechwatchNetwork/HtwNetworkDocuments/white-paper-c11-741490.pdf), Fig. 22] 
 Even cellular network operators install Wi-Fi access points at hot spots to offload traffic from cellular networks.
 
 However, the listen-before-talk approach used in Wi-Fi MAC only works for small networks. 
@@ -84,10 +84,10 @@ Small cells are for highly populated hotspots, such as central business district
 For small cells, wireless backhaul can avoid the high cost and inconvenience of installing wired backhaul.
 For drone and CubeSat-assisted networks, wireless backhaul is the only option. [Akyildiz 2022]
 
-The high connectivity density of Internet of Things (IoT), e.g. tens of thousands of devices per square kilometers, brings a unique challenge called massive access [Chen 2021]. 
-Moreover, the IoT devices would periodically send small payloads to its controller, such machine-type traffic is very different from data traffic generated by human users.
-It is very difficult for a base-station to manage such many active user devices using current approaches, since the total overhead of these many user devices will consume all the bandwidth, leaving no resource for communications.
-If the IoT devices can form self-organizing networks, it could reduce the burden of base-station.
+Wireless multihop networks might help address the challenge of massive access [Chen 2021] in Internet of Things (IoT). 
+In the future, the popularity of IoT devices could lead to very high connectivity density, e.g. tens of thousands of active devices per square kilometers, they need periodically send small payloads to its controller.
+Although the real bandwidth required by these payloads is not high, the overheads of handshaking and authorization generated by these IoT devices under existing cellular architecture could consume all the bandwidth, jamming the entire network.
+If these IoT devices can form self-organizing networks, the situation could be significantly improved.
 
 
 ## 4. Synchronization
