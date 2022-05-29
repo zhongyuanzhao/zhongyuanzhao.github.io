@@ -1,7 +1,7 @@
 ---
 title: 'A Gentle Introduction to Distributed Link Scheduling in Self-organizing Wireless Networks: Part I'
-date: 2022-06-01
-permalink: /posts/2022/06/distributed-link-scheduling-for-self-organizing-wireless-networks/
+date: 2022-05-29
+permalink: /posts/2022/05/distributed-link-scheduling-part1/
 tags:
   - wireless multihop networks
   - graph neural networks
