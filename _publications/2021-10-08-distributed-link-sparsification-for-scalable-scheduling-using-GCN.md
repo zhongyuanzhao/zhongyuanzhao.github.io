@@ -4,13 +4,16 @@ category: 'conference'
 collection: publications
 permalink: /publications/2021-10-08-distributed-link-sparsification-for-scalable-scheduling-using-gcn.html
 excerpt: ''
-date: 2022-05-22
+date: 2022-05-07
 venue: 'IEEE ICASSP 2022'
-paperurl: ''
-citation: 'Zhongyuan Zhao, Ananthram Swami, Santiago Segarra, &quot; Distributed Link Sparsification for Scalable Scheduling using Graph Neural Networks,&quot; accepted to <i>IEEE ICASSP 2022</i>.'
+paperurl: 'https://doi.org/10.1109/ICASSP43922.2022.9747437'
+citation: 'Zhongyuan Zhao, Ananthram Swami, Santiago Segarra, &quot; Distributed Link Sparsification for Scalable Scheduling using Graph Neural Networks,&quot; <i>IEEE ICASSP 2022</i>, pp. 5308-5312, doi: 10.1109/ICASSP43922.2022.9747437.'
 ---
 
-**Preprint will be uploaded soon**
+[Preprint](https://arxiv.org/pdf/2203.14339) 
+
+[Slides](/files/Zhao_LinkSparsification_ICASSP22.pdf) 
+
 
 ## An brief introduction
 
