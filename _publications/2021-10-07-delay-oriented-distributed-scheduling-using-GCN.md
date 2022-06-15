@@ -13,7 +13,7 @@ citation: 'Zhongyuan Zhao, Gunjan Verma, Ananthram Swami, Santiago Segarra, &quo
 
 Preprint [arXiv: 2111.07017](https://arxiv.org/pdf/2111.07017)
 
-[Slides](/files/Zhao_DelayScheduling_ICASSP22.pdf) 
+[Slides](/files/Zhao_DelayScheduling_ICASSP22.pdf)  [Video](https://youtu.be/lZscLy16TFY)
 
 
 We develop a machine learning method to solve a series of dependent combinatorial optimization problems embedded in a Markov Decision Process. This formulation applies to many problems in wireless networking and operational research. So far, researchers can attack only one of them, either a series of independent combinatorial problems or a Markov Decision Process without combinatorics in decision making. In addition, the generalizability of graph neural networks enables the trained pipeline to work for different/dynamic topologies without retraining.

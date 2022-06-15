@@ -12,7 +12,7 @@ citation: 'Zhongyuan Zhao, Ananthram Swami, Santiago Segarra, &quot; Distributed
 
 [Preprint](https://arxiv.org/pdf/2203.14339) 
 
-[Slides](/files/Zhao_LinkSparsification_ICASSP22.pdf) 
+[Slides](/files/Zhao_LinkSparsification_ICASSP22.pdf) [Video](https://youtu.be/zu8Ep4kGWfE)
 
 
 ## An brief introduction
