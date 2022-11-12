@@ -1,13 +1,13 @@
 ---
 title: "Link Scheduling using Graph Neural Networks"
-category: 'preprint'
+category: 'journal'
 collection: publications
 permalink: /publications/2021-07-30-link-scheduling-using-gcn.html
 excerpt: 'We leverage the power of Graph Convolutional Networks in encoding topological information into node embeddings, to enhance the existing algorithmic frameworks of distributed greedy scheduler as well as centralized tree search for solving maximum weighted independent set (MWIS) problem in an efficient and approximate manner. This improves the performance of both distributed and centralized link scheduling in wireless multi-hop networks.'
 date: 2021-07-30
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2109.05536'
-citation: 'Zhongyuan Zhao, Gunjan Verma, Chirag Rao, Ananthram Swami, Santiago Segarra, &quot; Link Scheduling Using Graph Neural Networks,&quot; submitted to <i>IEEE Transactions on Wireless Communications</i>, Preprint arXiv:2109.05536.'
+citation: 'Zhongyuan Zhao, Gunjan Verma, Chirag Rao, Ananthram Swami, Santiago Segarra, &quot; Link Scheduling Using Graph Neural Networks,&quot; accepted to <i>IEEE Transactions on Wireless Communications</i>, Preprint arXiv:2109.05536.'
 ---
 
 Abstract
@@ -24,10 +24,13 @@ Test results on medium-sized wireless networks show that our centralized heurist
 The proposed schedulers also exhibit good generalizability across graph and weight distributions.
 
 
-_Key words_: Maximum weighted independent set; graph convolutional network; wireless network; scheduling
+_Key words_: MWIS; graph convolutional network; wireless networks; scheduling; reinforcement learning
 
 Related conference publication: [Distributed scheduling using graph neural networks](/publications/2021-01-30-DGCN.html)
 
-## Updates (May 18, 2022)
+## Update (Nov 11, 2022)
+The paper has been accepted to IEEE Transactions on Wireless Communications.
+
+## Update (May 18, 2022)
 
 We recently update the training method. Previously, we use a customized reinforcement learning scheme to train the graph convolutional networks in the downstream pipeline. Now, we reformulate the training of GCN to deterministic policy gradient, and use a proxy vector for credit assignment across nodes on the graph. It still falls in to the centralized training, distributed execution paradigm. But it turns an off policy to on policy. This new training scheme slightly improves the performance of deeper GCNs, but it is more theoretically sound. The detailed deduction is in the updated preprint, Section VI. 
