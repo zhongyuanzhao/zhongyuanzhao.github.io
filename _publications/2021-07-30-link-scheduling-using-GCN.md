@@ -5,9 +5,9 @@ collection: publications
 permalink: /publications/2021-07-30-link-scheduling-using-gcn.html
 excerpt: 'We leverage the power of Graph Convolutional Networks in encoding topological information into node embeddings, to enhance the existing algorithmic frameworks of distributed greedy scheduler as well as centralized tree search for solving maximum weighted independent set (MWIS) problem in an efficient and approximate manner. This improves the performance of both distributed and centralized link scheduling in wireless multi-hop networks.'
 date: 2021-07-30
-venue: 'arXiv'
-paperurl: 'https://arxiv.org/abs/2109.05536'
-citation: 'Zhongyuan Zhao, Gunjan Verma, Chirag Rao, Ananthram Swami, Santiago Segarra, &quot; Link Scheduling Using Graph Neural Networks,&quot; accepted to <i>IEEE Transactions on Wireless Communications</i>, Preprint arXiv:2109.05536.'
+venue: 'IEEE Transactions on Wireless Communications'
+paperurl: ''
+citation: 'Zhongyuan Zhao, Gunjan Verma, Chirag Rao, Ananthram Swami, Santiago Segarra, &quot; Link Scheduling Using Graph Neural Networks,&quot; accepted to <i>IEEE Transactions on Wireless Communications</i>, https://doi.org/10.1109/TWC.2022.3222781 .'
 ---
 
 Abstract
@@ -30,6 +30,11 @@ Related conference publication: [Distributed scheduling using graph neural netwo
 
 ## Update (Nov 11, 2022)
 The paper has been accepted to IEEE Transactions on Wireless Communications.
+
+<https://doi.org/10.1109/TWC.2022.3222781>
+
+Preprint 
+<https://arxiv.org/abs/2109.05536>
 
 ## Update (May 18, 2022)
 
