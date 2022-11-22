@@ -11,6 +11,13 @@ tags:
   - news
 ---
 
+
+<figure>
+<img src="/images/bias_backpressure_routes_visualization.png" alt="Biased Backpressure Routes" style="width:300px" class="center">
+<figcaption align = "center"><b>Figure 1 - An exemplary routes in biased backpressure routing.</b> </figcaption>
+</figure>
+
+
 Backpressure routing is a fully distributed packet routing algorithm for wireless multihop networks. It has a mechanism that drives data packets to explore every possible route in the network to their destination(s) just like water going through a network of pipes. This feature allows backpressure routing to stabilize the queues on each wireless devices -- meaning that the length of queues will not grow infinitely -- as long as the traffic load of the data flows are within the capacity of the network. This property is called throughput optimal. In contrast, some table-driven routing schemes may suffer from exploding queues when too many data flows go through the same critical node.
 
 However, the classical backpressure routing is known to have poor delay performance in light-to-medium traffic load. Specifically, it exhibits undesirable characteristics such as slow startup, random walk, and the last packet problem, just like what happens when water flow through a flat floor -- it stays on the floor when there is not enough water to push them forward. 
@@ -26,4 +33,4 @@ The preprint is available at <https://arxiv.org/pdf/2211.10748.pdf>
 The source code will soon be available at <https://github.com/zhongyuanzhao/biasBP> 
 
 
-[Bojan Radojičić](https://www.linkedin.com/in/radojicicbojan/), an student from University of Novi Sad, Serbia, has contributed to the project, especially the source code, during his visit to Rice University.
+[Bojan Radojičić](https://www.linkedin.com/in/radojicicbojan/), a student from University of Novi Sad, Serbia, has contributed to the project, especially the source code, during his visit to Rice University.
