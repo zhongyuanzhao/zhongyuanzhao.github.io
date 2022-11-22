@@ -14,7 +14,6 @@ tags:
 
 <figure>
 <img src="/images/bias_backpressure_routes_visualization.png" alt="Biased Backpressure Routes" style="width:300px" class="center">
-<figcaption align = "center"><b>Figure 1 - An exemplary routes in biased backpressure routing.</b> </figcaption>
 </figure>
 
 
