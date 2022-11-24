@@ -31,6 +31,8 @@ Related conference publication: [Distributed scheduling using graph neural netwo
 ## Update (Nov 11, 2022)
 The paper has been accepted to IEEE Transactions on Wireless Communications.
 
+<https://ieeexplore.ieee.org/document/9962800>
+
 <https://doi.org/10.1109/TWC.2022.3222781>
 
 Preprint 
