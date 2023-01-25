@@ -26,13 +26,13 @@ Our downstream pipeline is quite different from popular centralized learning fra
 In order to train the non-differentiable policy network, we further introduce the idea of a neural twin of the non-differentiable policy network to build the critic network.
 
 We then applied GDPG framework for two types of repetitive combinatorial optimization problems (R-COP): 1) R-COP with independent instances, and 2) R-COP embedded in a graph-based Markov decision process.
-We define the R-COP as a series of instances of a certain type of combinatorial optimization problem that share the same underlying graph/network topology but have different node/edge weights.  
+We define the R-COP as a series of instances of a certain type of combinatorial optimization problem that share the same underlying graph/network topology but have different node/edge weights.
 R-COP is quite common in engineering systems but receives less attention than standalone COP, in which each instance is solved individually.
 Applications of R-COP include scheduling of links and jobs, routing for packets and vehicles, multi-object tracking in computer vision, etc.
 A common trait of R-COP in real-world applications is that they need to be solved repeatedly under stringent runtime (e.g., tens of milliseconds) and/or in a fully distributed manner.
 Existing machine learning approaches to standalone COP could not meet these practical requirements, since they are generally formulated in a centralized and sequential manner.
 Moreover, non-learnable conventional distributed algorithms could only address the first type of R-COP.
-The significance of this paper is that the GDPG framework not only can improve the quality of solution for the R-COP with independent instances, but also opens the door of addressing R-COPs embedded in graph-based Markov decision process.
+The significance of this paper is that our GDPG framework can improve the quality of solutions for R-COPs with independent instances, and more importantly, it opens the door of addressing R-COPs embedded in graph-based Markov decision processes.
 
 What is the significance of distributed solutions? In networked systems, especially when the multi-hop networks, distributed solutions are almost always preferred over centralized ones, because distributed solutions do not require the full network state to make decisions whereas the centralized ones do. 
 This allows distributed solutions to be easily scaled up to larger networks.
