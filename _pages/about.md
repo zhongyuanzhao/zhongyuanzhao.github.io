@@ -13,7 +13,7 @@ redirect_from:
 I am a postdoc in the [ECE department](https://eceweb.rice.edu/) at Rice University. 
 Generally, I am interested in systems and my research covers wireless communications, signal processing, and machine learning (artifical intelligence). 
 Here are a few topics I recently worked on: 
-- automomous networking with graph (network)-based machine learning ([IEEE TWC](https://ieeexplore.ieee.org/document/9962800) ([arXiv](https://arxiv.org/abs/2109.05536)), [ICASSP 21](https://doi.org/10.1109/ICASSP39728.2021.9414098), [ICASSP22a](https://doi.org/10.1109/ICASSP43922.2022.9746926), [ICASSP22b](https://doi.org/10.1109/ICASSP43922.2022.9747437))
+- automomous networking with graph (network)-based machine learning ([ICLR'23](https://openreview.net/forum?id=yHIIM9BgOo), [IEEE TWC](https://ieeexplore.ieee.org/document/9962800) ([arXiv](https://arxiv.org/abs/2109.05536)), [ICASSP 21](https://doi.org/10.1109/ICASSP39728.2021.9414098), [ICASSP22a](https://doi.org/10.1109/ICASSP43922.2022.9746926), [ICASSP22b](https://doi.org/10.1109/ICASSP43922.2022.9747437))
 - radio frequency machine learning ([IEEE JSAC](https://doi.org/10.1109/JSAC.2021.3087241), [arXiv](https://arxiv.org/abs/1810.07181), [git](https://github.com/zhongyuanzhao/dl_ofdm), [post](/publications/2018-10-23-Deep-Waveform.html))
 - cloud radio access networks ([j.adhoc](https://doi.org/10.1016/j.adhoc.2020.102305), [post](/publications/2020-10-23-CoSeC-RAN.html))
 - dynamic spectrum access ([IEEE TVT](https://doi.org/10.1109/TVT.2019.2892867), [post](/publications/2019-02-01-CogTV.html))
