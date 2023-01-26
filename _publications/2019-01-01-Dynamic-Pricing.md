@@ -7,7 +7,7 @@ excerpt: 'This paper is about development of Markov Decision Process-based dynam
 date: 2019-01-01
 venue: 'Manufacturing and Service Operations Management'
 paperurl: 'https://doi.org/10.1287/msom.2018.0727'
-citation: 'Demet Batur, Jennifer Ryan, Zhongyuan Zhao, and Mehmet C. Vuran, &quot;Dynamic Pricing of Wireless Internet Based on Usage and Stochastically Changing Capacity,&quot; <i>Manufacturing and Service Operations Management</i>, Publised Online, Feb. 2019.'
+citation: 'Demet Batur, Jennifer Ryan, Zhongyuan Zhao, and Mehmet C. Vuran, &quot;Dynamic Pricing of Wireless Internet Based on Usage and Stochastically Changing Capacity,&quot; <i>Manufacturing and Service Operations Management</i>, Vol. 21, No.4, Publised Online, Feb. 2019.'
 ---
 
 Abstract
@@ -24,4 +24,4 @@ _History_ : Received: Jan 09, 2017; Accepted: Mar 10, 2018;  Published Online: F
 
 Recommended citation: 
 
-Demet Batur, Jennifer Ryan, Zhongyuan Zhao, and Mehmet C. Vuran, "Dynamic Pricing of Wireless Internet Based on Usage and Stochastically Changing Capacity," Manufacturing and Service Operations Management, In Press.
+Demet Batur, Jennifer Ryan, Zhongyuan Zhao, and Mehmet C. Vuran, "Dynamic Pricing of Wireless Internet Based on Usage and Stochastically Changing Capacity," Manufacturing and Service Operations Management, Vol. 21, No.4, Publised Online, Feb. 2019.
