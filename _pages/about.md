@@ -11,16 +11,16 @@ redirect_from:
 
 
 I am a postdoc in the [ECE department](https://eceweb.rice.edu/) at Rice University. 
-My research interests are systems, including wireless communications, signal processing, artifical intelligence (AI) & machine learning (ML), and distributed systems. 
-Here are a few topics I work on: 
+My research interests are wireless communications & networking, distributed systems, signal processing, artifical intelligence (AI) & machine learning (ML). 
+My recent research topics include: 
 - Automomous networking ([ICLR'23](https://openreview.net/forum?id=yHIIM9BgOo), [IEEE TWC](https://ieeexplore.ieee.org/document/9962800) ([arXiv](https://arxiv.org/abs/2109.05536)), [ICASSP 21](https://doi.org/10.1109/ICASSP39728.2021.9414098), [ICASSP22a](https://doi.org/10.1109/ICASSP43922.2022.9746926), [ICASSP22b](https://doi.org/10.1109/ICASSP43922.2022.9747437)) -- focus on graph (network)-based machine learning for distributed decisions & discrete problems
 - AI radio ([IEEE JSAC](https://doi.org/10.1109/JSAC.2021.3087241), [arXiv](https://arxiv.org/abs/1810.07181), [git](https://github.com/zhongyuanzhao/dl_ofdm), [post](/publications/2018-10-23-Deep-Waveform.html))
 - Cloud radio access networks ([j.adhoc](https://doi.org/10.1016/j.adhoc.2020.102305), [post](/publications/2020-10-23-CoSeC-RAN.html))
 - Dynamic spectrum access ([IEEE TVT](https://doi.org/10.1109/TVT.2019.2892867), [post](/publications/2019-02-01-CogTV.html); [M&SOM](https://doi.org/10.1287/msom.2018.0727), [manuscript](http://cbafiles.unl.edu/public/cbainternal/facStaffUploads/MSOM-template-final.pdf))
 - Vehicular communications ([j.comcom](https://doi.org/10.1016/j.comcom.2018.05.009), [post](/publications/2018-09-01-Vehicle-to-Barrier.html))
 
-My current and past work seeks to make wireless communications more <span class="tooltip">alive and fun<span class="tooltiptext">in contrast to merely a cathedral of (dead) standards and protocols. That's important for the products as well as talents.</span></span>. 
-I am also interested in deep learning itself and its applications beyond radio. 
+Deep learning makes wireless systems more <span class="tooltip">alive and fun<span class="tooltiptext">, which is important from the perspectives of products and talents.</span></span>. 
+I am also interested in the theory and applications of deep learning beyond radio. 
 
 My current advisor is [Santiago Segarra](http://segarra.rice.edu/), and I finished my Ph.D. program under the advise of [Mehmet C. Vuran](http://cse.unl.edu/~mcvuran/) (13-19). A few years back, I was advised by [Zishu He](https://ieeexplore.ieee.org/author/37086032055) in a research-based master program (06-09), and by [Zhuming Chen](https://ieeexplore.ieee.org/author/37291477800) in China's national undergraduate electronic design contest (2005), in which my team was awarded the national 1st-class prize.
 
