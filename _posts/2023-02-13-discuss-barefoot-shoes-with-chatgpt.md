@@ -217,7 +217,7 @@ Would you consider this kind of conversation a new form of search?
 **ZZ:** Can you summarize our conversation on barefoot shoes, list the main points we discussed?
 
 **ChatGPT:** 
->Sure! Here's a summary of our conversation on barefoot shoes:
+>Sure! Here's a <span class="tooltip">summary<span class="tooltiptext">ZZ: the discussion on sales is missing, but admittedly that discussion is not informative. </span></span> of our conversation on barefoot shoes:
 >
 >1. Definition: Barefoot shoes are designed to mimic the feel of walking or running barefoot, while providing some protection for the feet.
 >
