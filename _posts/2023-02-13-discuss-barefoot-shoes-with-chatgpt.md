@@ -7,7 +7,8 @@ tags:
   - AI
 ---
 
-I recently interviewed ChatGPT ([Jan 30 Version](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)) on [barefoot shoes](https://www.google.com/search?q=barefoot+shoes&tbm=isch), and post our conversation here (with minor edits on format and subtitles, along with my afterward comments on a few flaws of its answers.). 
+I recently interviewed ChatGPT ([Jan 30 Version](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)) on [barefoot shoes](https://www.google.com/search?q=barefoot+shoes&tbm=isch).
+The conversation is posted here, along with my comments on the flaws in its answers (with minor edits on format and subtitles). 
 The title of this post, as you may have guessed, is 'mostly' written by ChatGPT.
 ChatGPT has no problem with my grammatical errors, it remembers the context of the conversation, and has fairly broad knowledge on the topic. 
 However, ChatGPT's answers are not perfect due to overly relying on manufacturers' words and the lack of understanding and insights.
