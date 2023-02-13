@@ -10,7 +10,7 @@ tags:
 I recently discussed [barefoot shoes](https://www.google.com/search?q=barefoot+shoes&tbm=isch) with ChatGPT ([Jan 30 Version](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)), and post our conversation here (with minor edits on format and subtitles). 
 The title of this post, as you may have guessed, is 'mostly' written by ChatGPT.
 ChatGPT has no problem with my grammatical errors, it remembers the context of the conversation, and has fairly broad knowledge on the topic. 
-However, ChatGPT did miss some contents in it answer, and forgot one topic when asked to summarize the discussion.
+However, ChatGPT did miss some contents in its answers, and forgot one topic when asked to summarize the discussion.
 
 My question is: would you consider this kind of conversation a new form of search? 
 
@@ -140,7 +140,7 @@ My question is: would you consider this kind of conversation a new form of searc
 >
 >1. Runners: Some runners may use barefoot shoes for training runs to improve their form and build strength in their feet and legs, but switch to traditional shoes for races where they need more cushioning and support.
 >
->2. Gymnasts: Some gymnasts may use barefoot shoes for certain activities, such as floor exercises, where they need to feel connected to the ground for improved balance and stability. But for other activities, such as vault and beam, they may prefer traditional shoes for added protection.
+>2. <span class="tooltip">Gymnasts:<span class="tooltiptext">ZZ: this answer is highly questionable since gymnasts are usually on barefoot</span></span> Some gymnasts may use barefoot shoes for certain activities, such as floor exercises, where they need to feel connected to the ground for improved balance and stability. But for other activities, such as vault and beam, they may prefer traditional shoes for added protection.
 >
 >3. Soccer players: Some soccer players may use barefoot shoes for training sessions to improve their agility and balance, but switch to cleats for games to provide better traction on the field.
 >
@@ -196,12 +196,12 @@ My question is: would you consider this kind of conversation a new form of searc
 >
 >Research and development: Developing a high-quality barefoot shoe requires significant investment in research and development. This investment can be reflected in the price of the final product.
 >
->In summary, despite using fewer materials and being less complex than traditional sports shoes, barefoot shoes can be more expensive due to the use of quality materials, the manufacturing process, brand reputation, and investment in research and development. However, it's worth noting that not all barefoot shoes are expensive, and there are options available at a variety of price points.
+>In summary, despite using fewer materials and being less complex than traditional sports shoes, barefoot shoes can be more expensive due to the use of <span class="tooltip">quality materials, the manufacturing process<span class="tooltiptext">ZZ: I doubt these two points, which may be just the manufacturers' claims. </span></span>, brand reputation, and investment in research and development. However, it's worth noting that not all barefoot shoes are expensive, and there are options available at a variety of price points.
 
 
 
 
-**ZZ:** You did not mention how much money barefoot shoes company spend on marketing
+**ZZ:** You did not mention how much money barefoot shoes company spend on <span class="tooltip">marketing<span class="tooltiptext">ZZ: A human being can infer that barefoot shoes companies heavily rely on marketing and advertising, given the overwhelmingly positive yet similar comments from YouTubers. Understandably, a language model would never know the deals made under the table between those YouTubers and barefoot shoe companies. Based on my insights on advertising and my sparse knowledge of the historical prices of barefoot shoes, I think marketing cost is the major reason why barefoot shoes are so expensive. This answer is really really hard for AI because it requires insights, experiences, and understanding. </span></span>
 
 **ChatGPT:** 
 >You're correct, I apologize for not mentioning marketing costs in my previous response. Marketing is also an important factor that can contribute to the high cost of barefoot shoes. Companies may spend a significant amount of money on advertising, promotions, and other marketing efforts to build brand awareness and increase sales. This marketing spend can add to the overall cost of barefoot shoes, which is passed on to consumers in the form of higher prices.
