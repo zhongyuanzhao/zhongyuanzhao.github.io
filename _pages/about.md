@@ -19,7 +19,7 @@ My recent research topics include:
 - Dynamic spectrum access ([IEEE TVT](https://doi.org/10.1109/TVT.2019.2892867), [post](/publications/2019-02-01-CogTV.html); [M&SOM](https://doi.org/10.1287/msom.2018.0727), [manuscript](http://cbafiles.unl.edu/public/cbainternal/facStaffUploads/MSOM-template-final.pdf))
 - Vehicular communications ([j.comcom](https://doi.org/10.1016/j.comcom.2018.05.009), [post](/publications/2018-09-01-Vehicle-to-Barrier.html))
 
-Deep learning makes wireless systems more <span class="tooltip">alive and fun<span class="tooltiptext">important for making better products and attracting talents to the industry.</span></span>, this is [how ChatGPT explains it](#chatgpt).   
+Machine learning makes wireless systems more <span class="tooltip">alive and fun<span class="tooltiptext">important for making better products and attracting talents to the industry.</span></span>, this is [how ChatGPT explains it](#chatgpt).   
 I am also interested in the theory and applications of deep learning beyond radio. 
 
 My current advisor is [Santiago Segarra](http://segarra.rice.edu/), and I finished my Ph.D. program under the advise of [Mehmet C. Vuran](http://cse.unl.edu/~mcvuran/) (13-19). A few years back, I was advised by [Zishu He](https://ieeexplore.ieee.org/author/37086032055) in a research-based master program (06-09), and by [Zhuming Chen](https://ieeexplore.ieee.org/author/37291477800) in China's national undergraduate electronic design contest (2005), in which my team was awarded the national 1st-class prize.
