@@ -142,7 +142,8 @@ Would you consider this kind of conversation a new form of search?
 >
 >1. Runners: Some runners may use barefoot shoes for training runs to improve their form and build strength in their feet and legs, but switch to traditional shoes for races where they need more cushioning and support.
 >
->2. <span class="tooltip">Gymnasts<span class="tooltiptext">ZZ: gymnastic shoes are very similar to barefoot shoes, the whole point on gymnasts is problematic.</span></span>: Some gymnasts may use barefoot shoes for certain activities, such as floor exercises, where they need to feel connected to the ground for improved balance and stability. <span class="tooltip">But for other activities, such as vault and beam, they may prefer traditional shoes for added protection<span class="tooltiptext">ZZ: this is wrong because gymnasts are usually on barefoot in these activities</span></span>.
+>2. <span class="tooltip">Gymnasts<span class="tooltiptext">ZZ: gymnastic shoes are very similar to barefoot shoes, the whole point on gymnasts is problematic.</span></span>: Some gymnasts may use barefoot shoes for certain activities, such as floor exercises, where they need to feel connected to the ground for improved balance and stability. 
+><span class="tooltip">But for other activities, such as vault and beam, they may prefer traditional shoes for added protection.<span class="tooltiptext">ZZ: this is wrong because gymnasts are usually on barefoot in these activities</span></span>
 >
 >3. Soccer players: Some soccer players may use barefoot shoes for training sessions to improve their agility and balance, but switch to cleats for games to provide better traction on the field.
 >
