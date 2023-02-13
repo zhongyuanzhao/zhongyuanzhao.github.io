@@ -7,12 +7,13 @@ tags:
   - AI
 ---
 
-I recently discussed [barefoot shoes](https://www.google.com/search?q=barefoot+shoes&tbm=isch) with ChatGPT ([Jan 30 Version](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)), and post our conversation here (with minor edits on format and subtitles). 
+I recently interviewed ChatGPT ([Jan 30 Version](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)) on [barefoot shoes](https://www.google.com/search?q=barefoot+shoes&tbm=isch), and post our conversation here (with minor edits on format and subtitles, along with my afterward comments on a few flaws of its answers.). 
 The title of this post, as you may have guessed, is 'mostly' written by ChatGPT.
 ChatGPT has no problem with my grammatical errors, it remembers the context of the conversation, and has fairly broad knowledge on the topic. 
-However, ChatGPT did miss some contents in its answers, and forgot one topic when asked to summarize the discussion.
+However, ChatGPT's answers are not perfect due to overly relying on manufacturers' words and the lack of understanding and insights.
+It also missed one topic we discussed when asked to summarize our conversation.
 
-My question is: would you consider this kind of conversation a new form of search? 
+Would you consider this kind of conversation a new form of search? 
 
 
 ## Summary (by ChatGPT)
