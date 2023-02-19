@@ -7,7 +7,7 @@ excerpt: 'Backpressure routing algorithm based on shortest path bias is augmente
 date: 2022-11-19
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/pdf/2211.10748.pdf'
-citation: 'Zhongyuan Zhao, Bojan Radojičić, Gunjan Verma, Ananthram Swami, Santiago Segarra, &quot; Delay-aware Backpressure Routing Using Graph Neural Networks,&quot; submitted to <i>IEEE ICASSP 2023</i>, arXiv 2211.10748 .'
+citation: 'Zhongyuan Zhao, Bojan Radojičić, Gunjan Verma, Ananthram Swami, Santiago Segarra, &quot; Delay-aware Backpressure Routing Using Graph Neural Networks,&quot; accepted to <i>IEEE ICASSP 2023</i>, arXiv 2211.10748 .'
 ---
 
 Abstract
