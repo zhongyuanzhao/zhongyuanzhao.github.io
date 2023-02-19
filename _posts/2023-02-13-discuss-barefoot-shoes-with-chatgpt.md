@@ -1,5 +1,5 @@
 ---
-title: 'Exploring the Pros and Cons of Barefoot Shoes: A Comprehensive Discussion with ChatGPT'
+title: 'Explore the Pros and Cons of Barefoot Shoes with ChatGPT'
 date: 2023-02-13
 permalink: /posts/2023/02/discuss-barefoot-shoes-with-chatgpt/
 tags:
