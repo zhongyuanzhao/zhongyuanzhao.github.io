@@ -99,11 +99,11 @@ These requirements may not apply to wireless networks that have low-end devices 
 Therefore, the rest of this article is focused on the case of OMA.
 -->
 
-## 3. Distributed Link Scheduling
+## 2. Distributed Link Scheduling
 
 In wireless multihop networks, links share the same wireless medium, which means that if two nearby links transmit simultaneously, they will interfere with each other and fail to communicate successfully. Therefore, it is crucial to avoid scheduling conflicting links to transmit at the same time.
 
-### 3.1 Conflict graph
+### 2.1 Conflict graph
 
 To represent these interference relationships between links in the network, we use a conflict graph. The conflict graph is a graph where each vertex represents a link in the network, and an edge exists between two vertices if the corresponding links conflict with each other. The edge can represent either physical or logical interference.
 Figure 6 shows an example of mapping a wireless multihop network to its conflict graph.
@@ -113,7 +113,7 @@ Figure 6 shows an example of mapping a wireless multihop network to its conflict
 <figcaption align = "center"><b>Fig.6 - (left) Connectivity and interference in a wireless multi-hop network, (right) conflict graph.</b></figcaption>
 </figure>
 
-### 3.2 Maximum weighted independent set problem
+### 2.2 Maximum weighted independent set problem
 
 Using a conflict graph allows us to formulate the link scheduling problem as an optimization problem on the graph, where we aim to find the maximum-weight independent set. An independent set is a set of vertices where no two vertices are adjacent (i.e., no two links conflict with each other), and the maximum-weight independent set is the independent set with the highest sum of vertex weights.
 
@@ -129,7 +129,7 @@ We can formally define the distributed link scheduling as follows: given a confl
   \end{align}
 </p>
 
-### 3.2 Distributed Local Greedy Solver
+### 2.3 Distributed Local Greedy Solver
 
 However, finding the optimal solution to the MWIS problem is known to be NP-hard, which makes it computationally infeasible for large-scale networks. 
 To address this challenge, researchers have proposed various heuristics to quickly find an independent set that has a total weight close to the maximum value. 
@@ -148,9 +148,9 @@ For a more in-depth understanding of this algorithm, readers may refer to the st
 Next, let's find out how to use machine learning and graph neural networks to enhance LGS to produce even closer approximations to the optimal solution.
 
 
-## 4. Distributed Scheduling with Graph Neural Networks
+## 3. Distributed Scheduling with Graph Neural Networks
 
-### 4.1 What are Graph Neural Networks?
+### 3.1 What are Graph Neural Networks?
 
 Graph Neural Networks (GNNs) are a powerful class of machine learning models specifically designed to operate on graph-structured data, such as social networks, transportation networks, and, most importantly, wireless networks.
 GNNs utilize the network structure to learn features of nodes and edges, as well as the global structure of the entire graph, making them a powerful tool for modeling complex networks.
@@ -170,7 +170,7 @@ The local computation at a vertex (link) $v\in\mathcal{V}$ is shown in (3), wher
 Notably, the GCN model only contains two learnable parameters $\theta_{0}$, $\theta_{1}$, allowing it to be executed on resource-constrained wireless devices.
 
 
-### 4.2 Option 1: Scheduling as binary classification
+### 3.2 Option 1: Scheduling as binary classification
 
 In the context of distributed link scheduling, one straightforward approach is to formulate the problem as a binary classification task, where a link is classified as either transmitting or remaining silent. However, this approach often performs poorly, as it fails to consider the potential conflict between neighboring links.
 
@@ -187,7 +187,7 @@ To further elaborate on the challenges of formulating link scheduling as a binar
 
 
 
-### 4.3 Option 2: GCN-LGS
+### 3.3 Option 2: GCN-LGS
 
 
 To avoid the pitfalls of a binary classifier, we took a different approach and proposed an innovative method called GCN-LGS. This technique incorporates Graph Convolutional Networks (GCNs) into the algorithmic framework of the distributed greedy scheduler LGS, as shown in Figure 9. 
@@ -215,7 +215,7 @@ Training GCN-LGS is a challenging task that requires the development of effectiv
 
 
 
-## 5 Demonstration
+## 4 Demonstration
 
 In this demonstration, we compare the performance of two different distributed link schedulers in simulated wireless multihop networks: the Local Greedy Solver/Scheduler (LGS) and the GCN-enhanced LGS. 
 The two simulations, shown side by side in Figure 11, are the same in every aspect except using different scheduling algorithms. 
@@ -232,7 +232,7 @@ The curves in the right window of Figure 11 are the throughputs achieved by thes
 For a more comprehensive comparison of these distributed schedulers, we invite readers to explore our paper ([Zhao 2022 TWC](#Zhao2022twc)).
 
 
-## 6 Summary
+## 5 Summary
 
 Let's take a moment to recap what we've covered so far. We began by introducing routing and scheduling and then explored how to formulate the problem of link scheduling in wireless multihop networks as a maximum weighted independent set problem. We then introduced the Local Greedy Solver/Scheduler (LGS), a distributed heuristic that is simple and easy to implement.
 
@@ -243,7 +243,7 @@ Our simulations revealed that GCN-enhanced LGS consistently outperforms LGS in t
 Overall, we have demonstrated that GCN-LGS is a promising approach for solving the distributed link scheduling problem in wireless multihop networks. By combining the power of graph neural networks and distributed heuristics, we can achieve improved performance and more efficient use of network resources.
 
 
-## 7. Implications for Future Networked Systems
+## 6. Implications for Future Networked Systems
 
 
 The GCN-LGS approach we introduced in this post has far-reaching implications for the design and optimization of self-organizing wireless networks and other distributed systems.
