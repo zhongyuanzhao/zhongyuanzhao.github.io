@@ -238,7 +238,7 @@ Let's take a moment to recap what we've covered so far. We began by introducing 
 
 Next, we delved into how to use Graph Convolutional Networks (GCNs) to enhance LGS, leveraging the advantages of GNNs in learning graph structure and distributed execution. We also discussed the drawbacks of using GCNs as a binary classifier in solving MWIS and how that led us to propose the GCN-LGS approach.
 
-Our simulations revealed that GCN-enhanced LGS consistently outperforms LGS in terms of total throughput, even as the network topology changes. It's worth noting that our GCN model is tiny, with only two learnable parameters, making it well-suited for low-end wireless devices like sensors and IoT devices. Yet, when incorporated into our GCN-LGS framework, it closes the optimality gap of LGS by almost 50%.
+Our simulations revealed that GCN-enhanced LGS consistently outperforms LGS in terms of total throughput, even as the network topology changes. It's worth noting that our GCN model is tiny, with only two learnable parameters, making it well-suited for low-end wireless devices like sensors and IoT devices. Yet, when incorporated into our GCN-LGS framework, it closes the optimality gap of LGS by a third to a half (see [Zhao 2022 TWC](#Zhao2022twc)).
 
 Overall, we have demonstrated that GCN-LGS is a promising approach for solving the distributed link scheduling problem in wireless multihop networks. By combining the power of graph neural networks and distributed heuristics, we can achieve improved performance and more efficient use of network resources.
 
