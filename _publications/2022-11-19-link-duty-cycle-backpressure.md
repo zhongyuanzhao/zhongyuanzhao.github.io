@@ -1,6 +1,6 @@
 ---
 title: "Delay-aware Backpressure Routing Using Graph Neural Networks"
-category: 'preprint'
+category: 'conference'
 collection: publications
 permalink: /publications/2022-11-19-link-duty-cycle-backpressure.html
 excerpt: 'Backpressure routing algorithm based on shortest path bias is augmented with Graph Convolutional Networks, which predict a delay-aware per-hop distance based on link duty cycle in scheduling. Our approach can improve the delay performance of backpressure routing at low signaling overhead. '
