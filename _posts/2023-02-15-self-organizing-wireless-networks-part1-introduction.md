@@ -1,5 +1,5 @@
 ---
-title: 'Self-organizing Wireless Networks, Part I: A Brief Introduction'
+title: 'Self-organizing Wireless Networks, Part 1: An Introduction'
 date: 2023-02-15
 permalink: /posts/2023/02/self-organizing-wireless-networks-part1/
 tags:
