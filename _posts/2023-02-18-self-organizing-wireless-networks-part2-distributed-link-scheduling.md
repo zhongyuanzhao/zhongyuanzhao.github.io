@@ -120,7 +120,7 @@ Using a conflict graph allows us to formulate the link scheduling problem as an 
 The vertex weight, which is defined as the utility of scheduling that link, represents the importance of that link in the network. 
 By solving the MWIS problem, a valid schedule can be found that not only avoids conflicting links but also maximizes the total utility.
 
-We can formally define the distributed link scheduling as follows: given a conflict graph $\mathcal{G}(\mathcal{V}, \mathcal{E}, \mathbb{u})$, an optimal schedule $\mathcal{v}^\*$ is found by solving the following MWIS problem:
+We can formally define the distributed link scheduling as follows: given a conflict graph $\mathcal{G}(\mathcal{V}, \mathcal{E}, \mathbb{u})$, an optimal schedule $\boldsymbol{v}^\*$ is found by solving the following MWIS problem:
 <p>
   \begin{align}
   & \boldsymbol{v}^* = \mathop{\operatorname{arg\,max}}\limits_{\boldsymbol{v}\subseteq \mathcal{V}} \,\, \sum_{v\in\boldsymbol{v}} u(v) \label{eq:mwis}
