@@ -7,14 +7,11 @@ tags:
   - AI
 ---
 
-I recently interviewed ChatGPT ([Jan 30 Version](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)) on [barefoot shoes](https://www.google.com/search?q=barefoot+shoes&tbm=isch).
-The conversation is posted here, along with my comments on the flaws in its answers (with minor edits on format and subtitles). 
-The title of this post, as you may have guessed, is 'mostly' written by ChatGPT.
-ChatGPT has no problem with my grammatical errors, it remembers the context of the conversation, and has fairly broad knowledge on the topic. 
-However, ChatGPT's answers are not perfect due to overly relying on manufacturers' words and the lack of understanding and insights.
-It also missed one topic we discussed when asked to summarize our conversation.
+Curious about how reliable [ChatGPT](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) is when it comes to a hype topic? I just tested it by performing a "dialogue-based search" on [barefoot shoes](https://www.google.com/search?q=barefoot+shoes&tbm=isch).
 
-Would you consider this kind of conversation a new form of search? 
+
+Barefoot shoes are all the rage these days, but do they really live up to the hype? In this post, you'll find a conversation on the topic, along with my thoughts on the answers provided by ChatGPT. While ChatGPT certainly has a good grasp of barefoot shoes, there were instances where its answers relied too heavily on manufacturers' marketing materials and lacked in-depth understanding and insights. Despite this, ChatGPT's language ability is impressive, as it was able to understand my intention even when my English was broken. However, there was still one topic that was missed when ChatGPT was asked to summarize our conversation. So, without further ado, let's jump into the transcripts and take a closer look at the pros and cons of barefoot shoes.
+
 
 
 ## Summary (by ChatGPT)
