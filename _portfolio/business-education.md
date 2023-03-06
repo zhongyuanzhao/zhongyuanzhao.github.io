@@ -9,7 +9,7 @@ CFA Exams, Accomplished Business Courses, and Trading Track Record.
 * CFA Level I exam passed in Dec. 2017,
 * CFA Level II exam passed in Jun. 2018,
 
-## Accomplished Courses 
+## Accomplished Courses
 
 * UNL CBA [GRBA 811: Managerial Finance](https://bulletin.unl.edu/courses/GRBA/811) (Fall 2015),
 * UNL CBA [MNGT 864: Talent Acquisition and Staffing](https://bulletin.unl.edu/courses/MNGT/864) (Spring 2018),
@@ -18,6 +18,7 @@ CFA Exams, Accomplished Business Courses, and Trading Track Record.
 * __Operational Finance: Finance for Managers__ by IESE Business School on Coursera. Grade Achieved: 96.2%; [Certificate](https://www.coursera.org/account/accomplishments/records/RPR64324CLQX) earned at Tuesday, May 23, 2017 12:12 AM GMT,
 * __Organizational Behavior: How to Manage People__ by IESE Business School on Coursera. Grade Achieved: 87.8%; [Certificate](https://www.coursera.org/account/accomplishments/records/AX5VG8P9BF5U) earned at Friday, January 6, 2017 1:58 PM GMT, 
 * __Accounting: Principles of Financial Accounting__ by IESE Business School on Coursera. Grade Achieved: 94.6%; [Certificate](https://www.coursera.org/account/accomplishments/records/Q4UJE35PQEZ3) earned at Thursday, January 19, 2017 6:50 AM GMT.
+* __Marketing: Customer Needs and Wants__ by IESE Business School on Coursera. Grade Achieved: 89.02%; [Certificate](https://coursera.org/share/e576c913456df196fcb13b2c40edf73b) earned on March 6, 2023. 
 
 ## Audited Track Record <a name="trackrecord"></a>
 
