@@ -9,13 +9,10 @@ redirect_from:
 ---
 {% include base_path %}
 
-As a postdoctoral researcher at Rice University, I'm always on a journey of discovery. My current research leverages the power of machine learning to make wireless networks and distributed systems more alive, adaptable, and <span class="tooltip">fun<span class="tooltiptext">Important for technologies and talents.</span></span> – [this](#chatgpt) is how ChatGPT explains it. I have worked on a range of topics, including autonomous networking, AI radio, cloud radio access networks, dynamic spectrum access, and vehicular communications. Check out the [highlights](#highlight) and [list of publications](/publications/) to learn more.
+As a postdoctoral researcher at Rice University, I'm always on a journey of discovery. My current research leverages the power of machine learning to make wireless networks and distributed systems more alive, adaptable, and <span class="tooltip">fun<span class="tooltiptext">Important for technologies and talents.</span></span> – [this](#chatgpt) is how ChatGPT explains it. I have worked on a range of topics, including autonomous networking, AI radio, cloud radio access networks, dynamic spectrum access, and vehicular communications. Check out the [highlights](#highlight) and [list of publications](/publications/) to learn more, and feel free to reach out through GitHub, email, or LinkedIn.
 
 Throughout my academic career, I've had the privilege of working with esteemed advisors including [Santiago Segarra](http://segarra.rice.edu/) (19-present), [Mehmet C. Vuran](http://cse.unl.edu/~mcvuran/) (13-19), [Zishu He](https://ieeexplore.ieee.org/author/37086032055) (06-09), and [Zhuming Chen](https://ieeexplore.ieee.org/author/37291477800) (04-06). Their mentorship has helped me become the researcher I am today, and I'm always grateful.
 
-When not immersed in research, I enjoy reading, [finance](/portfolio/business-education/), and sports. I especially appreciate the Olympic Motto, "Citius, Altius, Fortius," which means "faster, higher, braver." I believe it encapsulates the spirit of always striving for improvement and pushing ourselves to be our best.
-
-Feel free to reach out through my GitHub, email, or LinkedIn. Thanks for visiting!
 
 [Curriculum vitae]({{site.baseurl}}/files/zhongyuanzhao-cv.pdf) 
 
@@ -69,3 +66,9 @@ ChatGPT explains machine learning for wireless systems using [Tom Scott](https:/
 >
 >And the cool thing is, machine learning can keep learning and adapting, meaning it can keep improving over time as it handles more data and encounters new challenges. So, in a nutshell, machine learning helps wireless networks make smarter decisions and provide a better experience for users.
 
+More
+======
+
+When not immersed in research, I enjoy reading, [finance](/portfolio/business-education/), and sports. I especially appreciate the Olympic Motto, "Citius, Altius, Fortius," which means "faster, higher, braver." I believe it encapsulates the spirit of always striving for improvement and pushing ourselves to be our best.
+
+Thanks for visiting!
