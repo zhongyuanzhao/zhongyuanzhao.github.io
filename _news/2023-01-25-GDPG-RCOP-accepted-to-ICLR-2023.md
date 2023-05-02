@@ -15,9 +15,11 @@ tags:
 ---
 
 
-- The manuscript <https://openreview.net/forum?id=yHIIM9BgOo> (camera ready version will be ready by March 1st, 2023)
+- [Read more about this paper](/publications/2023-02-01-graph-based-deterministic-policy-gradient-for-rcop.html) on this site
+- The manuscript <https://openreview.net/forum?id=yHIIM9BgOo> 
 - Source code <https://github.com/XzrTGMu/twin-nphard>
-- [Link](/publications/2023-02-01-graph-based-deterministic-policy-gradient-for-rcop.html) on this site
+- ICLR presentation [video](https://youtu.be/fK9zqsjNqvg), [slides](/files/GDPG-Twin-ICLR-2023-ID4014.pdf), [poster](/files/GDPG-Twin-ICLR-2023-ID4014.pdf)
+
 
 ## A brief introduction
 
@@ -42,4 +44,6 @@ As a result, despite their generally larger suboptimality gaps, distributed syst
 For example, Wi-Fi carries more Internet traffics than cellular networks despite that Wi-Fi protocol is less efficient in utilizing the radio spectrum. 
 But the decentralized/distributed nature of Wi-Fi protocol makes it virtually free to everyone with very little maintenance compared to cellular data services.
 An intelligent distributed system can empower many exciting applications, such as 5G/6G wireless networks, robotic swarm, drone fleet, Internet-of-Things, smart transportation, smart grids, inventory management and logistic networks, and many other networked cyber-physical systems. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fK9zqsjNqvg" title="ICLR 2023 ID4014 presentation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
