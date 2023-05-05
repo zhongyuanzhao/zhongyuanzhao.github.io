@@ -10,6 +10,17 @@ paperurl: 'https://arxiv.org/pdf/2211.10748.pdf'
 citation: 'Zhongyuan Zhao, Bojan Radojičić, Gunjan Verma, Ananthram Swami, Santiago Segarra, &quot; Delay-aware Backpressure Routing Using Graph Neural Networks,&quot; accepted to <i>IEEE ICASSP 2023</i>, arXiv 2211.10748 .'
 ---
 
+
+- The preprint is available at <https://arxiv.org/pdf/2211.10748.pdf>
+- Presentation: [YouTube](https://youtu.be/dRTVzpKXrBs), [slides](/files/BiasBP-ICASSP2023-8min-upload.pdf), [poster](/files/BiasBP-ICASSP2023-8min-poster.pdf)
+- The source code will soon be available at <https://github.com/zhongyuanzhao/biasBP> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dRTVzpKXrBs" title="ICASSP 2023 Paper ID 3944 presentation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+[Bojan Radojičić](https://www.linkedin.com/in/radojicicbojan/), a student from University of Novi Sad, Serbia, has contributed to the project, especially the source code, during his visit to Rice University.
+
+
 Abstract
 ===
 We propose a throughput-optimal biased backpressure (BP) algorithm for routing, where the bias is learned through a graph neural network that seeks to minimize end-to-end delay. Classical BP routing provides a simple yet powerful distributed solution for resource allocation in wireless multi-hop networks but has poor delay performance. A low-cost approach to improve this delay performance is to favor shorter paths by incorporating pre-defined biases in the BP computation, such as a bias based on the shortest path (hop) distance to the destination. In this work, we improve upon the widely-used metric of hop distance (and its variants) for the shortest path bias by introducing a bias based on the link duty cycle, which we predict using a graph convolutional neural network. Numerical results show that our approach can improve the delay performance compared to classical BP and existing BP alternatives based on pre-defined bias while being adaptive to interference density. In terms of complexity, our distributed implementation only introduces a one-time overhead (linear in the number of devices in the network) compared to classical BP, and a constant overhead compared to the lowest-complexity existing bias-based BP algorithms.
@@ -35,9 +46,4 @@ In this work, we propose a different distance metric that can better estimate th
 
 
 
-The preprint is available at <https://arxiv.org/pdf/2211.10748.pdf>
 
-The source code will soon be available at <https://github.com/zhongyuanzhao/biasBP> 
-
-
-[Bojan Radojičić](https://www.linkedin.com/in/radojicicbojan/), a student from University of Novi Sad, Serbia, has contributed to the project, especially the source code, during his visit to Rice University.
