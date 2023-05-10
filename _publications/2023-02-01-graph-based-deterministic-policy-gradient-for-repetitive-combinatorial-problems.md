@@ -13,7 +13,7 @@ citation: 'Zhongyuan Zhao, Ananthram Swami, Santiago Segarra, &quot; Graph-based
 
 - The manuscript <https://openreview.net/forum?id=yHIIM9BgOo> (camera ready version uploaded on March 1st, 2023)
 - Source code <https://github.com/XzrTGMu/twin-nphard>
-- ICLR presentation [video](https://youtu.be/fK9zqsjNqvg), [slides](/files/GDPG-Twin-ICLR-2023-ID4014.pdf), [poster](/files/GDPG-Twin-ICLR-2023-ID4014.pdf)
+- ICLR presentation [video](https://youtu.be/fK9zqsjNqvg), [slides](/files/GDPG-Twin-ICLR-2023-ID4014.pdf), [poster](/files/GDPG-Twin-ICLR-2023-ID4014.pdf), [virtual conference](https://iclr.cc/virtual/2023/poster/11245) 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fK9zqsjNqvg" title="ICLR 2023 ID4014 presentation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
