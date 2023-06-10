@@ -7,7 +7,7 @@ excerpt: 'We leverage the power of Graph Convolutional Networks in encoding topo
 date: 2021-07-30
 venue: 'IEEE Transactions on Wireless Communications'
 paperurl: ''
-citation: 'Zhongyuan Zhao, Gunjan Verma, Chirag Rao, Ananthram Swami, Santiago Segarra, &quot; Link Scheduling Using Graph Neural Networks,&quot; accepted to <i>IEEE Transactions on Wireless Communications</i>, https://doi.org/10.1109/TWC.2022.3222781 .'
+citation: 'Zhongyuan Zhao, Gunjan Verma, Chirag Rao, Ananthram Swami, Santiago Segarra, &quot; Link Scheduling Using Graph Neural Networks,&quot; in <i>IEEE Transactions on Wireless Communications</i>, vol. 22, no. 6, pp. 3997-4012, June 2023, doi: 10.1109/TWC.2022.3222781 .'
 ---
 
 Abstract
