@@ -14,6 +14,7 @@ Some useful and fun stuff.
   - [Open Graph Benchmark](https://ogb.stanford.edu/) Benchmark datasets, data loaders and evaluators for graph machine learning
   - [CS224W: Machine Learning with Graphs](https://web.stanford.edu/class/cs224w/)
 - UPenn ESE514 [ Graph neural networks](https://gnn.seas.upenn.edu/)
+- [Reinforcement learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ), Google Deepmind
 - [Deep Graph Library](https://dgl.ai)
 - [towards data science](https://towardsdatascience.com/)
 
