@@ -5,7 +5,7 @@ collection: publications
 permalink: /publications/2023-09-26-enhanced-sp-backpressure.html
 excerpt: 'The latency and practicality of Backpressure routing algorithm based on shortest path bias is improved with three components: optimal bias scaling, low-overhead bias maintenance, and a delay-aware backlog metric. '
 date: 2023-09-26
-venue: 'IEEE CAMSAP 2023'
+venue: 'IEEE CAMSAP'
 paperurl: ''
 citation: 'Zhongyuan Zhao, Gunjan Verma, Ananthram Swami, Santiago Segarra, &quot; Enhanced Backpressure with Wireless Link Features,&quot; accepted to <i>IEEE CAMSAP 2023</i>.'
 ---
