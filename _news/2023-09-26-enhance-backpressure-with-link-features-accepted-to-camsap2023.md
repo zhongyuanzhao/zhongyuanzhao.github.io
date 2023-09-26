@@ -2,7 +2,7 @@
 title: '"Enhanced Backpressure Routing with Wireless Link Features" accepted to IEEE CAMSAP 2023.'
 date: 2023-09-26
 collection: news
-permalink: /news/2023/09/enhanced-backpressure-routing-accepted-to-ICASSP-2023/
+permalink: /news/2023/09/enhanced-backpressure-routing-accepted-to-CAMSAP-2023/
 tags:
   - backpressure routing
   - shortest path bias 
