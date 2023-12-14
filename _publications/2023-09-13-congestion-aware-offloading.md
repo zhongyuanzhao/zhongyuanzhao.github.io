@@ -1,17 +1,18 @@
 ---
 title: "Congestion-aware Distributed Task Offloading in Wireless Multi-hop Networks Using Graph Neural Networks"
-category: 'preprint'
+category: 'conference'
 collection: publications
 permalink: /publications/2023-09-13-congestion-aware-offloading.html
 excerpt: 'Backpressure routing algorithm based on shortest path bias is augmented with Graph Convolutional Networks, which predict a delay-aware per-hop distance based on link duty cycle in scheduling. Our approach can improve the delay performance of backpressure routing at low signaling overhead. '
 date: 2023-09-13
-venue: 'arXiv'
+venue: 'IEEE ICASSP 2024'
 paperurl: 'http://arxiv.org/abs/2312.02471'
-citation: 'Zhongyuan Zhao, Jake Perazzone, Gunjan Verma, Santiago Segarra, &quot; Congestion-aware Distributed Task Offloading in Wireless Multi-hop Networks Using Graph Neural Networks,&quot; submitted to <i>IEEE ICASSP 2024</i>.'
+citation: 'Zhongyuan Zhao, Jake Perazzone, Gunjan Verma, Santiago Segarra, &quot; Congestion-aware Distributed Task Offloading in Wireless Multi-hop Networks Using Graph Neural Networks,&quot; accepted to <i>IEEE ICASSP 2024</i>.'
 ---
 
 
-- The preprint available at <http://arxiv.org/abs/2312.02471>. 
+- Preprint available at <http://arxiv.org/abs/2312.02471>. 
+- Source code will be available soon.
 
 
 Abstract
