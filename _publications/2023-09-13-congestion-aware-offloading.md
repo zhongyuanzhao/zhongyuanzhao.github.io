@@ -12,7 +12,7 @@ citation: 'Zhongyuan Zhao, Jake Perazzone, Gunjan Verma, Santiago Segarra, &quot
 
 
 - Preprint available at <http://arxiv.org/abs/2312.02471>. 
-- Source code will be available soon.
+- Source code available at <https://github.com/zhongyuanzhao/multihop-offload>.
 
 
 Abstract
