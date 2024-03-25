@@ -7,7 +7,7 @@ excerpt: 'To reduce the scheduling overhead in wireless networks of dense connec
 date: 2024-02-28
 venue: 'IEEE TWC'
 paperurl: ''
-citation: 'Zhongyuan Zhao, Ananthram Swami, Santiago Segarra, &quot; Distributed Link Sparsification for Scalable Scheduling using Graph Neural Networks,&quot; <i>IEEE Transactions on Wireless Communications</i>, under review'
+citation: 'Zhongyuan Zhao, Gunjan Verma, Ananthram Swami, Santiago Segarra, &quot; Distributed Link Sparsification for Scalable Scheduling using Graph Neural Networks,&quot; <i>IEEE Transactions on Wireless Communications</i>, under review'
 ---
 
 - Related conference paper [Distributed Link Sparsification for Scalable Scheduling using Graph Neural Networks](/publications/2021-10-08-distributed-link-sparsification-for-scalable-scheduling-using-gcn.html)
