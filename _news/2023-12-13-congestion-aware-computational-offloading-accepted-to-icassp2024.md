@@ -15,6 +15,6 @@ Our paper ["Congestion-aware Distributed Task Offloading in Wireless Multi-hop N
 
 Preprint available at <http://arxiv.org/abs/2312.02471>
 
-Source code will be available soon.
+Source code <https://github.com/zhongyuanzhao/multihop-offload>
 
 
