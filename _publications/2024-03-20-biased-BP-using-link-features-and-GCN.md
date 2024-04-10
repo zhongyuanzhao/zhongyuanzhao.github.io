@@ -5,9 +5,9 @@ collection: publications
 permalink: /publications/2024-03-20-biased-BP-using-link-features-and-gnn.html
 excerpt: 'To improve the latency performance of Backpressure routing, we improve shortest path-biased Backpressure routing by introducing a new distance metric for shortest path, principled approaches for optimal bias scaling and bias maintenance, as well as a new delay-based backlog metric that can be integrated into biased Backpressure routing.'
 date: 2024-03-20
-venue: 'IEEE TWC'
+venue: 'IEEE TMLCN'
 paperurl: ''
-citation: 'Zhongyuan Zhao, Bojan Radojičić, Gunjan Verma, Ananthram Swami, Santiago Segarra, &quot; Distributed Link Sparsification for Scalable Scheduling using Graph Neural Networks,&quot; <i>IEEE Transactions on Wireless Communications</i>, under review'
+citation: 'Zhongyuan Zhao, Bojan Radojičić, Gunjan Verma, Ananthram Swami, Santiago Segarra, &quot; Distributed Link Sparsification for Scalable Scheduling using Graph Neural Networks,&quot; <i>IEEE Transactions on Machine Learning in Communications and Networking</i>, under review'
 ---
 
 Related conference papers and code
@@ -27,3 +27,8 @@ Numerical experiments show that our solutions can effectively address the major 
 
 _Key words_:  Backpressure, MaxWeight scheduling, shortest path, queueing networks, last packet problem, graph neural networks.
 
+## History
+- 2024-04-09: submitted to IEEE Transactions on Machine Learning in Communications and Networking
+- 2024-04-04: EiC think it does not fit to the scope of IEEE TWC
+- 2024-03-20: submitted to IEEE Transactions on Wireless Communications
+  
