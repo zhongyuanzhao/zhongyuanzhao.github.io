@@ -8,6 +8,7 @@ CFA Exams, Accomplished Business Courses, and Trading Track Record.
 ## CFA
 * CFA Level I exam passed in Dec. 2017,
 * CFA Level II exam passed in Jun. 2018,
+* CFA Level III exam passed in Feb. 2024. (Max level III)
 
 ## Accomplished Courses
 
