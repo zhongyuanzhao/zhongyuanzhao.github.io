@@ -5,13 +5,13 @@ collection: publications
 permalink: /publications/2022-11-19-link-duty-cycle-backpressure.html
 excerpt: 'Backpressure routing algorithm based on shortest path bias is augmented with Graph Convolutional Networks, which predict a delay-aware per-hop distance based on link duty cycle in scheduling. Our approach can improve the delay performance of backpressure routing at low signaling overhead. '
 date: 2022-11-19
-venue: 'arXiv'
-paperurl: 'https://arxiv.org/pdf/2211.10748.pdf'
-citation: 'Zhongyuan Zhao, Bojan Radojičić, Gunjan Verma, Ananthram Swami, Santiago Segarra, &quot; Delay-aware Backpressure Routing Using Graph Neural Networks,&quot; accepted to <i>IEEE ICASSP 2023</i>, arXiv 2211.10748 .'
+venue: 'IEEE ICASSP 2023'
+paperurl: 'https://ieeexplore.ieee.org/document/10095267'
+citation: 'Zhongyuan Zhao, Bojan Radojičić, Gunjan Verma, Ananthram Swami, Santiago Segarra, &quot; Delay-aware Backpressure Routing Using Graph Neural Networks,&quot; <i>IEEE ICASSP 2023</i>, Rhodes Island, Greece, 2023, pp. 1-5, doi: 10.1109/ICASSP49357.2023.10095267.'
 ---
 
 
-- The preprint is available at <https://arxiv.org/pdf/2211.10748.pdf>
+- [Paper](https://ieeexplore.ieee.org/document/10095267), [preprint](https://arxiv.org/pdf/2211.10748.pdf)
 - Presentation: [YouTube](https://youtu.be/dRTVzpKXrBs), [slides](/files/BiasBP-ICASSP2023-8min-upload.pdf), [poster](/files/BiasBP-ICASSP2023-8min-poster.pdf)
 - The source code will soon be available at <https://github.com/zhongyuanzhao/biasBP> 
 
