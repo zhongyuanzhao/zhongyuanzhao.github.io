@@ -1,5 +1,5 @@
 ---
-title: 'Tutorial on "Graph-based Machine Learning for Wireless Communications" presented at IEEE ICMLCN 2024 at Stockholm, Sweden.'
+title: 'Tutorial on "Graph-based Machine Learning for Wireless Communications" presented at IEEE ICMLCN 2024 in Stockholm, Sweden.'
 date: 2024-05-05
 collection: news
 permalink: /news/2024/05/icmlcn-tutorial/
