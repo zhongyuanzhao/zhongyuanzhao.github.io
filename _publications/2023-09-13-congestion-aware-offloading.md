@@ -24,6 +24,7 @@ In simulated wireless multi-hop networks with 20-110 nodes and a resource alloca
 
 _Key words_: Computational offloading, queueing networks, wireless multi-hop networks, graph neural networks, shortest path.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yKE_38M56Qs" title="ICASSP 2024 Paper presentation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
