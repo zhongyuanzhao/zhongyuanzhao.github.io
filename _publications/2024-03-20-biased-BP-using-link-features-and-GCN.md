@@ -13,7 +13,8 @@ citation: 'Zhongyuan Zhao, Bojan Radojičić, Gunjan Verma, Ananthram Swami, San
 Related conference papers and code
 - [Delay-aware Backpressure Routing using Graph Neural Networks](/publications/2022-11-19-link-duty-cycle-backpressure.html)
 - [Enhanced Backpressure Routing with Wireless Link Features](/publications/2023-09-26-enhanced-sp-backpressure.html)
-- Preprint and source code will be available soon
+- Preprint available at <https://arxiv.org/abs/2407.09753>
+- Source code available at <https://github.com/zhongyuanzhao/dutyBP>
 
 
 ## Abstract
