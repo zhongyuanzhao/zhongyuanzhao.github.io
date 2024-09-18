@@ -15,6 +15,8 @@ Related conference papers and code
 - [Enhanced Backpressure Routing with Wireless Link Features](/publications/2023-09-26-enhanced-sp-backpressure.html)
 - Preprint available at <https://arxiv.org/abs/2407.09753>
 - Source code available at <https://github.com/zhongyuanzhao/dutyBP>
+- IEEE Early Access <https://ieeexplore.ieee.org/document/10681132>
+
 
 
 ## Abstract

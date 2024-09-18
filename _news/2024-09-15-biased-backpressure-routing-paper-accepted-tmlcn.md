@@ -14,6 +14,7 @@ tags:
 Our paper ["Biased Backpressure Routing using Link Features and Graph Neural Networks"](/publications/2024-03-20-biased-BP-using-link-features-and-gnn.html) has been accepted for publication in IEEE Transactions on Machine Learning in Communications and Networking. 
 
 
+- IEEE Early Access <https://ieeexplore.ieee.org/document/10681132>
 - Preprint available at <https://arxiv.org/abs/2407.09753> (updated)
 - Source code available at <https://github.com/zhongyuanzhao/dutyBP>
 
