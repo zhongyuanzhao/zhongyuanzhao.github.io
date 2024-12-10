@@ -15,7 +15,7 @@ tags:
 Our paper ["Fully Distributed Online Training of Graph Neural Networks in Networked Systems"](/publications/2024-11-28-distributed-online-training-gnns.html) was submitted to [IEEE ICMLCN 2025](https://icmlcn2025.ieee-icmlcn.org/), the first author is [Rostyslav Olshevskyi](https://www.linkedin.com/in/rostyslav-olshevskyi-20665b197/?originalSubdomain=de), whom I co-advise with [Santiago Segarra](https://segarra.rice.edu/). This is also the first paper submitted by Rostyslav Olshevskyi on his PhD program at Rice University.
 
 
-- Preprint available soon
+- Preprint available <https://arxiv.org/pdf/2412.06105>
 - Source code available soon
 
 ## Abstract
