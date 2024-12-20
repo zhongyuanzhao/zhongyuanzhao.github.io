@@ -73,6 +73,12 @@
       {% if author.lastfm %}
         <li><a href="https://lastfm.com/user/{{ author.lastfm }}"><i class="fab fa-fw fa-lastfm-square" aria-hidden="true"></i> Last.fm</a></li>
       {% endif %}
+      {% if author.spotify %}
+        <li><a href="{{ author.spotify }}"><i class="fab fa-fw fa-spotify" aria-hidden="true"></i> Spotify</a></li>
+      {% endif %}
+      {% if author.podcast %}
+        <li><a href="{{ author.podcast }}"><i class="fab fa-fw fa-apple" aria-hidden="true"></i> Podcast</a></li>
+      {% endif %}
       {% if author.dribbble %}
         <li><a href="https://dribbble.com/{{ author.dribbble }}"><i class="fab fa-fw fa-dribbble-square" aria-hidden="true"></i> Dribbble</a></li>
       {% endif %}
