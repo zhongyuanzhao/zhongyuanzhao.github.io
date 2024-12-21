@@ -1,5 +1,5 @@
 ---
-title: 'Announcing the Launch of My Podcast: Deep Dive into Networked AI'
+title: 'Podcast "Deep Dive into Networked AI" Live Now'
 date: 2024-12-25
 permalink: /posts/2024/12/podcast-deep-dive-into-networked-ai-launched/
 tags:
@@ -13,13 +13,13 @@ tags:
 
 **Author: [Zhongyuan Zhao](https://zhongyuanzhao.com)**
 
-As the year draws to a close, I’m excited to announce the launch of my podcast, Deep Dive into Networked AI. This podcast is designed to help you navigate the cutting edge of artificial intelligence (AI) and signal processing in networked systems, offering fresh ideas to fuel your research and understanding.
+As 2024 draws to a close, I’m excited to announce the launch of my podcast, Deep Dive into Networked AI. This podcast is designed to help you navigate the cutting edge of artificial intelligence (AI) and signal processing in networked systems, offering fresh ideas to fuel your research and understanding.
 
-### Why This Podcast and What’s in It for You?
+### Making Research More Accessible
 
-Research papers can be dense, technical, and time-consuming to digest. Keeping up with the rapidly evolving fields of artificial intelligence, wireless communications, and networked systems can feel overwhelming, especially with hundreds of thousands of new papers published annually. This podcast is here to ease that burden for those interested in Networked AI.
+Research papers are dense, technical, and time-consuming to digest.  It is a daunting task to keep up with the rapidly evolving fields of artificial intelligence, wireless communications, and networked systems, in which hundreds of thousands of new papers are published annually.  This podcast is here to ease that burden for those interested in the niche of Networked AI.
 
-Each episode is generated using NotebookLM by Google under my careful oversight, focusing on either a single paper or multiple works around a specific topic. The goal is to distill the key ideas and provide a big-picture understanding of the research—all without the need to be glued to a screen. While the podcast helps convey high-level insights, diving into the technical details will still require reading the papers yourself.
+Each episode is generated using Google NotebookLM, drawing from either a single paper or multiple works around a specific topic—through several iterations of customization and manual validation. The goal is to help you distill  key ideas and grasp the big-picture of the research—all without the need to be glued to a screen.  While the podcast helps convey high-level insights, diving into the technical details will still require reading the papers yourself.
 
 ### Join the Journey
 
