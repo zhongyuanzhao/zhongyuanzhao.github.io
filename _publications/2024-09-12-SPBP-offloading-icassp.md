@@ -1,6 +1,6 @@
 ---
 title: "Joint Task Offloading and Routing in Wireless Multi-hop Networks Using Biased Backpressure Algorithm"
-category: 'preprint'
+category: 'conference'
 collection: publications
 permalink: /publications/2024-09-12-SPBP-offloading-icassp.html
 excerpt: 'A new formulation of computation offloading in wireless multi-hop networks that can simultaneously achieve task offloading, load balancing, routing, and scheduling under a unified biased Backpressure routing and scheduling framework.'
