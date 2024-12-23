@@ -24,7 +24,7 @@ In large networks, our approach achieves smaller makespan than existing approach
 
 ## Resources
 
-- Preprint available soon
+- Preprint available <https://arxiv.org/pdf/2412.15385>
 - Source code available soon at <https://github.com/zhongyuanzhao/edgeSPBP>
 
 Related papers (biased Backpressure routing)

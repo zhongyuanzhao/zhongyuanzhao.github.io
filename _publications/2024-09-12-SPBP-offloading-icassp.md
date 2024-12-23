@@ -6,8 +6,8 @@ permalink: /publications/2024-09-12-SPBP-offloading-icassp.html
 excerpt: 'A new formulation of computation offloading in wireless multi-hop networks that can simultaneously achieve task offloading, load balancing, routing, and scheduling under a unified biased Backpressure routing and scheduling framework.'
 date: 2024-09-12
 venue: 'IEEE ICASSP 2025'
-paperurl: ''
-citation: 'Zhongyuan Zhao, Jake Perazzone, Gunjan Verma, Kevin Chan, Ananthram Swami, and Santiago Segarr, &quot; Joint Task Offloading and Routing in Wireless Multi-hop Networks Using Biased Backpressure Algorithm,&quot; <i>IEEE ICASSP 2025</i>, under review'
+paperurl: 'https://arxiv.org/pdf/2412.15385'
+citation: 'Zhongyuan Zhao, Jake Perazzone, Gunjan Verma, Kevin Chan, Ananthram Swami, and Santiago Segarr, &quot; Joint Task Offloading and Routing in Wireless Multi-hop Networks Using Biased Backpressure Algorithm,&quot; <i>IEEE ICASSP 2025</i>, accepted for publication'
 ---
 
 ## Abstract
@@ -21,7 +21,7 @@ In large networks, our approach achieves smaller makespan than existing approach
 
 ## Resources
 
-- Preprint available soon
+- Preprint available <https://arxiv.org/pdf/2412.15385>
 - Source code available soon at <https://github.com/zhongyuanzhao/edgeSPBP>
 
 Related papers (biased Backpressure routing)

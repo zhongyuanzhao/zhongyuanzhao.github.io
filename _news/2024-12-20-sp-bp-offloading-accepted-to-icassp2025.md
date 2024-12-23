@@ -13,5 +13,5 @@ tags:
 
 Our paper "[Joint Task Offloading and Routing in Wireless Multi-hop Networks Using Biased Backpressure Algorithm](/publications/2024-09-12-SPBP-offloading-icassp.html)" is accepted to IEEE ICASSP 2025. 
 
-- Preprint available soon
+- Preprint available <https://arxiv.org/pdf/2412.15385>
 - Source code available soon at <https://github.com/zhongyuanzhao/edgeSPBP>
