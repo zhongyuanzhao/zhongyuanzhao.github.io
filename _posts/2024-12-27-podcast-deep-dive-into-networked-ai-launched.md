@@ -1,6 +1,6 @@
 ---
 title: 'Podcast "Deep Dive into Networked AI" Live Now'
-date: 2024-12-25
+date: 2024-12-27
 permalink: /posts/2024/12/podcast-deep-dive-into-networked-ai-launched/
 tags:
   - machine learning
