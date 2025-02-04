@@ -12,7 +12,12 @@ tags:
   - graph neural networks
 ---
 
-This tutorial aims to help you get ready to work with graph neural networks from zero. You can always ask ChatGPT for help, for example, _"Hey ChatGPT, explain the following code to me ..."_, _"Explain binary search with Python code"_, _"I am trying to set up Docker on Windows/Linux/MacOS but got this error"_, or _"Recommend some free courses or tutorials for learning Python library NetworkX"_.
+This tutorial aims to help you get ready to work with graph neural networks from zero. You can always ask Google and ChatGPT for help. For example, 
+- _"Hey ChatGPT, explain the following code to me ..."_ 
+- _"Explain binary search with Python code"_
+- _"I am trying to set up Docker on Windows/Linux/MacOS but got this error"_ 
+- _"Recommend some free courses or tutorials for learning Python library NetworkX"_
+- _"I want to find XXX from professional and trustworthy sources, but I don't want mix with YYY, what query words I should use on Google/DuckDuckGo/Bing?"_
 
 This post will be updated regularly based on feedback.
 
