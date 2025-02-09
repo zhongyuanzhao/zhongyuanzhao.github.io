@@ -7,7 +7,7 @@ excerpt: 'A new formulation of computation offloading in wireless multi-hop netw
 date: 2024-09-12
 venue: 'IEEE ICASSP 2025'
 paperurl: 'https://arxiv.org/pdf/2412.15385'
-citation: 'Zhongyuan Zhao, Jake Perazzone, Gunjan Verma, Kevin Chan, Ananthram Swami, and Santiago Segarr, &quot; Joint Task Offloading and Routing in Wireless Multi-hop Networks Using Biased Backpressure Algorithm,&quot; <i>IEEE ICASSP 2025</i>, accepted for publication'
+citation: 'Zhongyuan Zhao, Jake Perazzone, Gunjan Verma, Kevin Chan, Ananthram Swami, and Santiago Segarra, &quot; Joint Task Offloading and Routing in Wireless Multi-hop Networks Using Biased Backpressure Algorithm,&quot; <i>IEEE ICASSP 2025</i>, accepted for publication'
 ---
 
 ## Abstract

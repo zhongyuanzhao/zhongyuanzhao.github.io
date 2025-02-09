@@ -1,13 +1,13 @@
 ---
 title: "Fully Distributed Online Training of Graph Neural Networks in Networked Systems"
-category: 'preprint'
+category: 'conference'
 collection: publications
 permalink: /publications/2024-11-28-distributed-online-training-gnns.html
 excerpt: 'This work fills the gap in distributed online training of graph neural networks applied in networked systems, which previously rely on the paradigm of "centralized offline training with distributed execution".'
 date: 2024-11-28
 venue: 'IEEE ICMLCN 2025'
 paperurl: 'https://arxiv.org/pdf/2412.06105'
-citation: 'Rostyslav Olshevskyi, Zhongyuan Zhao, Kevin Chan, Gunjan Verma, Ananthram Swami, and Santiago Segarra, &quot; Fully Distributed Online Training of Graph Neural Networks in Networked Systems,&quot; <i>IEEE International Conference on Machine Learning for Communicatio and Networking (ICMLCN) 2025</i>, under review'
+citation: 'Rostyslav Olshevskyi, Zhongyuan Zhao, Kevin Chan, Gunjan Verma, Ananthram Swami, and Santiago Segarra, &quot; Fully Distributed Online Training of Graph Neural Networks in Networked Systems,&quot; <i>IEEE International Conference on Machine Learning for Communicatio and Networking (ICMLCN) 2025</i>, accepted for publications'
 ---
 
 
