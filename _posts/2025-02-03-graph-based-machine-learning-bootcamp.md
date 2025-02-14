@@ -56,7 +56,7 @@ This post will be updated regularly based on feedback.
 - Measure execution time for **sorted vs. unsorted lists of different sizes**  
 - **Push project to GitHub**  
 
-#### **3️⃣ NumPy: Array & Matrix Operations**
+#### **3️⃣ NumPy: Array & Matrix Operations** [Tutorial](https://www.programiz.com/python-programming/numpy/getting-started)
 - **Basic Operations:** Creating, reshaping, slicing arrays  
 - **Matrix Operations:** Broadcasting, dot product, matrix multiplication  
 - **Performance Comparison:** Vectorized NumPy vs. loops  
@@ -68,7 +68,7 @@ This post will be updated regularly based on feedback.
 - Compare **vectorized NumPy operations vs. naive loops** (measure execution time)  
 - **Push project to GitHub**  
 
-#### **4️⃣ Pandas & Matplotlib for Data Exploration**
+#### **4️⃣ Pandas & Matplotlib for Data Exploration** [Tutorial 1](https://ourcodingclub.github.io/tutorials/pandas-python-intro/), [Tutorial 2](https://www.kaggle.com/code/chats351/introduction-to-numpy-pandas-and-matplotlib)
 - **Pandas Basics:** DataFrames, indexing, filtering, `groupby`  
 - **Matplotlib Basics:** Histograms, line plots, scatter plots, heatmaps  
 - **Download & explore real-world datasets** (e.g., from Kaggle or UCI)  
