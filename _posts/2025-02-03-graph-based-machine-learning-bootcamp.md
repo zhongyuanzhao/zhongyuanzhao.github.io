@@ -227,6 +227,7 @@ This post will be updated regularly based on feedback.
 ### **Resources**
 - [RL for Traffic Signal Control](https://traffic-signal-control.github.io/), [Tutorial](https://bit.ly/RLSignal)
 - [CityFlow](https://cityflow-project.github.io/#cta)
+- [LibSignal tutorial](https://darl-libsignal.github.io/itsc2023.html)
 
 ### **Topics**
 #### **1️⃣ Setting Up CityFlow**
