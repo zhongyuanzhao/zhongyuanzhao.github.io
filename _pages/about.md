@@ -13,10 +13,13 @@ I focus on graph-based [neuro-symbolic]((https://en.wikipedia.org/wiki/Neuro-sym
 My research intersects machine learning, network science, wireless communications, and operations research.
 By bridging graph-based machine learning with domain-specific analytical models, my recent work advances distributed combinatorial algorithms, stochastic network optimization, and radio signal processing, yielding scalable, intelligent solutions for wireless communications, networking, and edge computing, with potential applications in transportation and biological networks.
 
-Through [graph modeling and machine learning](#chatgpt), I aim to make research in wireless communications and networked systems more engaging and transferable. Explore my research [highlights](#highlight) and [publications](/publications/) for details, and connect via GitHub, email, or LinkedIn.
-
-
+My past work includes dynamic spectrum access, and vehicular communications, and large-scale testbed of cloud radio access networks.
+Through [graph modeling and machine learning](#chatgpt), I aim to make research in wireless communications and networked systems more engaging and transferable. 
 Throughout my academic career, I've had the privilege of working with esteemed advisors including [Santiago Segarra](http://segarra.rice.edu/) (19-present), [Mehmet C. Vuran](http://cse.unl.edu/~mcvuran/) (13-19), [Zishu He](https://ieeexplore.ieee.org/author/37086032055) (06-09), and [Zhuming Chen](https://ieeexplore.ieee.org/author/37291477800) (04-06). Their mentorship has helped me become the researcher I am today, and I'm always grateful.
+
+Explore my research [highlights](#highlight) and [publications](/publications/) for details, and connect via GitHub, email, or LinkedIn.
+
+
 
 
 [Curriculum vitae]({{site.baseurl}}/files/zhongyuanzhao-cv.pdf) 
