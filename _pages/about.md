@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome!"
+title: "Welcome to my homepage!"
 excerpt: "Biography"
 author_profile: true
 redirect_from:
@@ -9,7 +9,12 @@ redirect_from:
 ---
 {% include base_path %}
 
-As a research assistant professor at Rice University, I'm always on a journey of discovery. My current research focuses on developing intelligent wireless networks and networked systems using [machine learning](#chatgpt), which hopefully can also make wireless research more fun and transferable. I have worked on a range of topics, including autonomous networking, AI radio, cloud radio access networks, dynamic spectrum access, and vehicular communications. Check out the [highlights](#highlight) and [list of publications](/publications/) to learn more, and feel free to reach out through GitHub, email, or LinkedIn.
+I focus on graph-based [neuro-symbolic]((https://en.wikipedia.org/wiki/Neuro-symbolic_AI)) approaches to synergize the <span class="tooltip" data-toggle="tooltip" title="Statistical patterns AI learns but struggles to model explicitly">organic</span>, <span class="tooltip" data-toggle="tooltip" title="Inherent graph structures in data">structural</span>, and <span class="tooltip" data-toggle="tooltip" title="Man-made rules and protocols">engineered</span> dimensions of complex systems. 
+My research intersects machine learning, network science, wireless communications, and operations research.
+By bridging graph-based machine learning with domain-specific analytical models, my recent work advances distributed combinatorial algorithms, stochastic network optimization, and radio signal processing, yielding scalable, intelligent solutions for wireless communications, networking, and edge computing, with potential applications in transportation and biological networks.
+
+Through [graph modeling and machine learning](#chatgpt), I aim to make research in wireless communications and networked systems more engaging and transferable. Explore my research [highlights](#highlight) and [publications](/publications/) for details, and connect via GitHub, email, or LinkedIn.
+
 
 Throughout my academic career, I've had the privilege of working with esteemed advisors including [Santiago Segarra](http://segarra.rice.edu/) (19-present), [Mehmet C. Vuran](http://cse.unl.edu/~mcvuran/) (13-19), [Zishu He](https://ieeexplore.ieee.org/author/37086032055) (06-09), and [Zhuming Chen](https://ieeexplore.ieee.org/author/37291477800) (04-06). Their mentorship has helped me become the researcher I am today, and I'm always grateful.
 
