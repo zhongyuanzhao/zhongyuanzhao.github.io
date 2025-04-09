@@ -11,7 +11,7 @@ tags:
   - news
 ---
 
-Narjes Nourzad, Jared Coleman, Zhongyuan Zhao, Bhaskar Krishnamachari, Gunjan Verma, Santiago Segarra, “Actor-Twin Framework for Task Graph Scheduling”, accepted to Adaptive and Learning Agents Workshop at 24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2025.
+Narjes Nourzad, Jared Coleman, Zhongyuan Zhao, Bhaskar Krishnamachari, Gunjan Verma, Santiago Segarra, “Actor-Twin Framework for Task Graph Scheduling”, The Seventeenth Workshop on Adaptive and Learning Agents, 2025.
 
 - Paper <https://openreview.net/forum?id=DxpdovAY8Y> 
 
