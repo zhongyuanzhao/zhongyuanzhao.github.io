@@ -1,7 +1,7 @@
 ---
 title: "Distributed AI in Networked Systems: A Graph-Based Neuro-Symbolic Perspective"
 category: 'seminar'
-collection: talks
+collection: talks, news
 type: "Seminar"
 permalink: /talks/2025-04-04-distributed-ai-for-networked-systems-tamu2025.html
 date: 2025-04-04

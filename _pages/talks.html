@@ -12,6 +12,14 @@ author_profile: true
 {% endif %}
 
 
+<h1 style="text-align:center;">Seminars</h1>
+
+{% assign conferences = site.talks | where: "category", "seminar" %}
+{% for post in conferences reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
+
+
 <h1 style="text-align:center;">Conferences</h1>
 
 {% assign conferences = site.talks | where: "category", "conference" %}
