@@ -41,15 +41,20 @@ News & Blogs <i class="fa fa-rss" aria-hidden="true"></i>
 
 <ul>
 {% assign posts = site.posts %}
-{% assign news = site.news | concat: posts | sort: "date" | reverse %}
+{% assign talks = site.talks %}
+{% assign news = site.news | concat: posts | concat: talks | sort: "date" | reverse %}
 
 {% for post in news limit:10  %}
     <li>      
     {% if post.date %}<i style="color: gray;font-size: 0.7em;">{{ post.date | date: '%Y-%m-%d' }}</i> {% endif %}
-    {% if post.collection == "news" %}
-    {% else %}
-      <i class="fa fa-bookmark" aria-hidden="true"></i>
-    {% endif %}
+    {% case post.collection %}
+      {% when "news" %}
+        <!-- No icon for news -->
+      {% when "talks" %}
+        <i class="fa fa-microphone" aria-hidden="true" title="Talk"></i>
+      {% else %}
+        <i class="fa fa-pen-nib" aria-hidden="true" title="Blog Post"></i>
+    {% endcase %}
 	  <span class="archive__item-title" itemprop="headline">
     {% if post.link %}
         <a href="{{ post.link }}">{{ post.title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
