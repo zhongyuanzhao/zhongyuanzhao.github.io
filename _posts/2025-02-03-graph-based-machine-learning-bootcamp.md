@@ -219,14 +219,16 @@ This post will be updated regularly based on feedback.
 
 ---
 
-## **📌 Module 5 (optional): Traffic Simulation with CityFlow (Weeks 9-10)**
+## **📌 Module 5 (optional): Traffic Simulation with SUMO (Weeks 9-10)**
 ### **Goals**
-- Learn **how to set up and run CityFlow simulations**  
+- Learn **how to set up and run SUMO simulations**  
 - Understand **how to integrate ML-based control in future work**  
 
 ### **Resources**
-- [RL for Traffic Signal Control](https://traffic-signal-control.github.io/), [Tutorial](https://bit.ly/RLSignal)
-- [CityFlow](https://cityflow-project.github.io/#cta)
+- SUMO [official documentation](https://sumo.dlr.de/docs/index.html), [github](https://github.com/eclipse-sumo/sumo)
+- Video [Tutorial 2024](https://www.youtube.com/watch?v=9WCGxJDdY9s)
+- [Traffic modeling with SUMO: a tutorial](https://arxiv.org/pdf/2304.05982)
+- CityFlow: [RL for Traffic Signal Control](https://traffic-signal-control.github.io/), [Tutorial](https://bit.ly/RLSignal), [CityFlow](https://cityflow-project.github.io/#cta)
 - [LibSignal tutorial](https://darl-libsignal.github.io/itsc2023.html)
 
 ### **Topics**
