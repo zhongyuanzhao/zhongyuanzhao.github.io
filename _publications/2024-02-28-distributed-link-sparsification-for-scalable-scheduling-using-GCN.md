@@ -1,7 +1,7 @@
 ---
 title: "Distributed Link Sparsification for Scalable Scheduling using Graph Neural Networks"
 category: 'preprint'
-collection: publications
+collection: manuscripts
 permalink: /publications/2024-02-28-distributed-link-sparsification-for-scalable-scheduling-using-gcn.html
 excerpt: 'To reduce the scheduling overhead in wireless networks of dense connectivity, a GCN is employed to adjust contention thresholds for individual links based on traffic statistics and network topology, which is trained with an offline constrained reinforcement learning algorithm capable of balancing two competing objectives.'
 date: 2024-02-28
