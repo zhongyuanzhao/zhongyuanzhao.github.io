@@ -1,16 +1,15 @@
 ---
-title: '"Generalizing Biased Backpressure Routing and Scheduling to Wireless Multi-hop Networks with Advanced Air-interfaces" submitted to ACM Mobihoc 2025.'
+title: "Generalizing Biased Backpressure Routing and Scheduling to Wireless Multi-hop Networks with Advanced Air-interfaces"
+category: 'preprint'
+collection: publications
+permalink: /publications/2025-04-08-generalized-sp-bp-for-mimo-mobihoc25.html
+excerpt: 'Generalize biased backpressure routing for multi-commodity link sharing and MaxWeight scheduling in MIMO networks.'
 date: 2025-04-08
-collection: news
-permalink: /news/2025/04/generalized-sp-bp-for-mimo-submitted-to-mobihoc25/
-tags:
-  - biased backpressure routing
-  - routing
-  - scheduling
-  - wireless multi-hop networks
-  - MIMO networks
-  - news
+venue: 'The 26th International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (MobiHoc), 2025'
+paperurl: 'https://arxiv.org/pdf/2504.21721'
+citation: 'Zhongyuan Zhao, Yujun Ming, Ananthram Swami, Kevin Chan, Fikadu Dagefu, Santiago Segarra, &quot; Generalizing Biased Backpressure Routing and Scheduling to Wireless Multi-hop Networks with Advanced Air-interfaces,&quot; <i>ACM Mobihoc, 2025</i>, under review'
 ---
+
 
 Zhongyuan Zhao, Yujun Ming, Ananthram Swami, Kevin Chan, Fikadu Dagefu, Santiago Segarra, “Generalizing Biased Backpressure Routing and Scheduling to Wireless Multi-hop Networks with Advanced Air-interfaces”, ACM Mobihoc 2025, submitted to.
 
