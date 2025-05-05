@@ -3,7 +3,7 @@ title: "Sparsity-enhanced Lagrangian Relaxation for Computation Offloading at th
 category: 'preprint'
 collection: publications
 permalink: /publications/2025-04-08-serl-for-edge-computing-mobihoc25.html
-excerpt: 'Fast heuristic .'
+excerpt: 'Fast heuristic algorithm to close the optimality gap of mixed integer programming in offline computation offloading.'
 date: 2025-04-08
 venue: 'The 26th International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (MobiHoc), 2025'
 paperurl: ''
