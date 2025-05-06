@@ -21,5 +21,5 @@ The novelty of our approach is to transform this non-convex problem into iterati
 combining primal-dual optimization for penalizing constraint violations and reweighted $L_1$-minimization for promoting solution sparsity, which achieves better convergence through a smoother path in a continuous search space. 
 Compared to existing greedy heuristics, our approach can achieve a better Pareto frontier in accuracy and latency, scales better to larger problem instances, and can achieve a 7.72--9.17$\times$ reduction in  computational overhead of scheduling compared to the optimal solver in hierarchically organized edge networks with 300 nodes and 50--100 tasks.
 
-- Preprint available soon
+- Preprint <https://arxiv.org/pdf/2505.00848>
 - Source code available soon 
