@@ -12,6 +12,7 @@ citation: 'Zhongyuan Zhao, Gunjan Verma, Ananthram Swami, Santiago Segarra, &quo
 
 - [Paper](https://ieeexplore.ieee.org/document/10403470), [preprint](https://arxiv.org/pdf/2310.04364)
 - [Slides](/files/BiasBP-CAMSAP2023-15min.pdf)
+- [Code](https://github.com/zhongyuanzhao/dutyBP/)
 
 Abstract
 ===
