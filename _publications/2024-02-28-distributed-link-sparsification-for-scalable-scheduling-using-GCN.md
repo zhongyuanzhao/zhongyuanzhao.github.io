@@ -1,15 +1,16 @@
 ---
 title: "Distributed Link Sparsification for Scalable Scheduling using Graph Neural Networks"
-category: 'preprint'
-collection: manuscripts
+category: 'journal'
+collection: publications
 permalink: /publications/2024-02-28-distributed-link-sparsification-for-scalable-scheduling-using-gcn.html
 excerpt: 'To reduce the scheduling overhead in wireless networks of dense connectivity, a GCN is employed to adjust contention thresholds for individual links based on traffic statistics and network topology, which is trained with an offline constrained reinforcement learning algorithm capable of balancing two competing objectives.'
-date: 2024-02-28
+date: 2025-09-01
 venue: 'IEEE TWC'
-paperurl: ''
-citation: 'Zhongyuan Zhao, Gunjan Verma, Ananthram Swami, Santiago Segarra, &quot; Distributed Link Sparsification for Scalable Scheduling using Graph Neural Networks,&quot; <i>IEEE Transactions on Wireless Communications</i>, under review'
+paperurl: 'https://doi.org/10.1109/TWC.2025.3606741'
+citation: 'Zhongyuan Zhao, Gunjan Verma, Ananthram Swami, and Santiago Segarra, &quot; Distributed Link Sparsification for Scalable Scheduling using Graph Neural Networks,&quot; <i>IEEE Transactions on Wireless Communications</i>, accepted for publication, DOI: 10.1109/TWC.2025.3606741'
 ---
 
+- Received 27 February 2024; revised 20 January 2025, 17 June 2025, and 13 August 2025; accepted 1 September 2025. 
 - Related conference paper [Distributed Link Sparsification for Scalable Scheduling using Graph Neural Networks](/publications/2021-10-08-distributed-link-sparsification-for-scalable-scheduling-using-gcn.html)
 - Preprint and source code will be available soon
 
