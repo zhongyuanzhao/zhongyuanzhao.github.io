@@ -15,6 +15,7 @@ I’m excited to share that our paper, ["Distributed Link Sparsification for Sca
 
 We train GNNs to guide links to withdraw from scheduling contention smartly, easing congestion while preserving network capacity. 
 
-Preprint and code will be up soon — stay tuned!
+- Preprint <https://arxiv.org/abs/2509.05447> 
+- Code <https://github.com/zhongyuanzhao/gcn-sparsify> full code will be released soon — stay tuned!
 
 

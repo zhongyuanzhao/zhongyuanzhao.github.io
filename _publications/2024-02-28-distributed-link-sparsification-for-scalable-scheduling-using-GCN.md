@@ -12,7 +12,9 @@ citation: 'Zhongyuan Zhao, Gunjan Verma, Ananthram Swami, and Santiago Segarra, 
 
 - Received 27 February 2024; revised 20 January 2025, 17 June 2025, and 13 August 2025; accepted 1 September 2025. 
 - Related conference paper [Distributed Link Sparsification for Scalable Scheduling using Graph Neural Networks](/publications/2021-10-08-distributed-link-sparsification-for-scalable-scheduling-using-gcn.html)
-- Preprint and source code will be available soon
+- Preprint <https://arxiv.org/abs/2509.05447> 
+- Code <https://github.com/zhongyuanzhao/gcn-sparsify> full code will be released soon — stay tuned!
+
 
 
 ## Abstract
