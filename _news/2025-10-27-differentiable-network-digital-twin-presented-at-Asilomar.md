@@ -36,7 +36,7 @@ This enables **fast prediction of congestion** across the network, as illustrate
 The proposed model runs **over 1000× faster** than simulation (from minutes to tens of milliseconds) and allows us to apply **gradient-based optimization** to improve **link scheduling priorities**, **routing**, and **load balancing** decisions—effectively mitigating congestion and expanding network capacity.
 
 <div align="center">
-<img src="/images/50node-network-8-flows.png" width="80%">
+<img src="/images/50node-network-8-flows.png"  alt="A test instance with 8 flows on a network of 50 nodes" width="150">
 <br><em>Figure 2. A test instance with 8 flows on a network of 50 nodes.</em>
 </div>
 
