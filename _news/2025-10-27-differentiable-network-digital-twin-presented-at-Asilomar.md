@@ -36,6 +36,9 @@ This enables **fast prediction of congestion** across the network, as illustrate
 The proposed model runs **over 1000× faster** than simulation (reducing runtime from minutes to tens of milliseconds) and allows us to apply **gradient-based optimization** to improve **link scheduling priorities**, **routing**, and **load-balancing** decisions — effectively mitigating congestion and expanding network capacity.  
 Moreover, it can be implemented in a **fully distributed manner**, making it suitable for integration into next-generation network protocols.
 
+
+In the example below, congestion is mitigated by optimizing the link-level contention aggressiveness in a network of 50 transceivers and 8 flows, while keeping all routing paths fixed.
+
 <div align="center">
   <img src="/images/50node-network-8-flows.png" alt="A test instance with 8 flows on a network of 50 nodes" width="300">
   <br><em>Figure 2. A test instance with 8 flows on a network of 50 nodes.</em>
@@ -46,6 +49,6 @@ Moreover, it can be implemented in a **fully distributed manner**, making it sui
   <br><em>Figure 3. Gradient-based optimization of link scheduling priorities (<i>z</i> in Figure 1, representing the contending aggressiveness policy) mitigates congestion.</em>
 </div>
 
-This approach provides a **scalable analytical foundation** for **next-generation, self-organizing wireless networks**, bridging classical optimization and modern differentiable modeling.  
+This approach provides a **scalable analytical foundation** for **next-generation, self-organizing wireless networks**, paving the way for smarter network protocols and new methods of network flow optimization.  
 
 **Preprint and code will be released soon.**
