@@ -17,34 +17,35 @@ Presented at the **Asilomar Conference on Signals, Systems, and Computers**, Pac
 
 ---
 
-We presented our latest work on building an **analytical and differentiable digital twin** of randomized link scheduling — a core challenge in distributed and self-organizing wireless networks.
+We presented our latest work on building an **analytical and differentiable digital twin** of distributed medium access control (MAC) based on randomized contention — a mechanism widely used in **Wi-Fi, mobile ad-hoc networks, wireless mesh networks**, and in emerging **6G scenarios** such as wireless backhaul and spectrum sharing.  
 
-Randomized contention is widely used in systems such as **Wi-Fi, mobile ad-hoc networks, wireless mesh networks**, and in emerging **6G scenarios** like wireless backhaul and spectrum sharing.  
-While **network flow optimization** is well understood in wired networks, e.g., through efficient algorithms for *minimum-cost flow* problems — it becomes far more complex in wireless systems, where **links contend for transmission in shared medium**.  
-In this setting, **link capacity and cost** depend not only on transmission data rate of the physical layer but also on **traffic loads of all links in the network**.  
+The purpose of this digital twin is to enable **gradient-based optimization** for wireless networking.  
+While **network flow optimization** is well understood in wired networks — for example through efficient algorithms for [*minimum-cost flow*](https://en.wikipedia.org/wiki/Minimum-cost_flow_problem) — it becomes far more complex in wireless systems, where **links contend for transmission in a shared medium**.  
+Here, **link capacity and cost** depend not only on the physical-layer data rate but also on the **traffic loads and activity of other links** across the network.  
 
-Traditional wireless optimization relies heavily on **trial-and-error tuning or packet-level simulation**, which are slow and offer limited analytical insight.
+Traditional methods rely heavily on **trial-and-error** for routing and on **packet-level simulation** for network analysis, both of which are slow and provide limited analytical insight.
 
-Our analytical **digital twin** directly models the **contention behavior** and resulting **effective link capacity** through *link scheduling duty cycles*, which can be viewed as a graph-based function.  
+Our analytical **digital twin** models **contention behavior** as a graph-based function, capturing the resulting **effective link capacity** through *link scheduling duty cycles*.
 This enables **fast prediction of congestion** across the network, as illustrated below.
 
 <div align="center">
-<img src="/images/asilomar2025_dt_diagram.png" alt="Analytical Digital Twin concept diagram" width="80%">
-<br><em>Figure 1. The differentiable digital twin models link contention and effective capacity to forecast congestion.</em>
+  <img src="/images/asilomar2025_dt_diagram.png" alt="Analytical Digital Twin concept diagram" width="600">
+  <br><em>Figure 1. The differentiable digital twin models link contention and effective capacity to forecast congestion.</em>
 </div>
 
-The proposed model runs **over 1000× faster** than simulation (from minutes to tens of milliseconds) and allows us to apply **gradient-based optimization** to improve **link scheduling priorities**, **routing**, and **load balancing** decisions—effectively mitigating congestion and expanding network capacity.
+The proposed model runs **over 1000× faster** than simulation (reducing runtime from minutes to tens of milliseconds) and allows us to apply **gradient-based optimization** to improve **link scheduling priorities**, **routing**, and **load-balancing** decisions — effectively mitigating congestion and expanding network capacity.  
+Moreover, it can be implemented in a **fully distributed manner**, making it suitable for integration into next-generation network protocols.
 
 <div align="center">
-<img src="/images/50node-network-8-flows.png"  alt="A test instance with 8 flows on a network of 50 nodes" width="250">
-<br><em>Figure 2. A test instance with 8 flows on a network of 50 nodes.</em>
+  <img src="/images/50node-network-8-flows.png" alt="A test instance with 8 flows on a network of 50 nodes" width="300">
+  <br><em>Figure 2. A test instance with 8 flows on a network of 50 nodes.</em>
 </div>
 
 <div align="center">
-<img src="/images/asilomar2025_link_priority_optimization.png" alt="Congestion mitigation through link-priority optimization" width="80%">
-<br><em>Figure 3. Gradient-based optimization of link scheduling priorities ($z$ in Figure 1 as contending aggressiveness policy) for congestion migitation.</em>
+  <img src="/images/asilomar2025_link_priority_optimization.png" alt="Congestion mitigation through link-priority optimization" width="600">
+  <br><em>Figure 3. Gradient-based optimization of link scheduling priorities (<i>z</i> in Figure 1, representing the contending aggressiveness policy) mitigates congestion.</em>
 </div>
 
-This approach offers a scalable analytical foundation for **next-generation, self-organizing wireless networks**, bridging classical optimization and modern differentiable modeling.  
+This approach provides a **scalable analytical foundation** for **next-generation, self-organizing wireless networks**, bridging classical optimization and modern differentiable modeling.  
 
 **Preprint and code will be released soon.**
