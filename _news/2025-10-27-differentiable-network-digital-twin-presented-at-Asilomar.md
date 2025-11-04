@@ -14,6 +14,7 @@ tags:
 ### A Differentiable Digital Twin of Distributed Link Scheduling for Contention-Aware Networking
 *(Zhongyuan Zhao<sup>†</sup>, Yujun Ming<sup>†</sup>, Kevin Chan, Ananthram Swami, Santiago Segarra)*  
 <sup>†</sup>Equal contribution
+
 Presented at the **Asilomar Conference on Signals, Systems, and Computers**, Pacific Grove, CA, October 2025.
 
 ---
