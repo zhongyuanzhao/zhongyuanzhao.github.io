@@ -25,7 +25,7 @@ The poster version is available on ACM DL, and the extended paper can be found o
 
 - 📄 [Poster (ACM Digital Library)](https://dl.acm.org/doi/pdf/10.1145/3704413.3765321)  
 - 📝 [Extended version (arXiv preprint)](https://arxiv.org/pdf/2505.00848)  
-- 💬 [See the announcement on LinkedIn](<YOUR-LINKEDIN-POST-URL>)
+- 💬 [See the announcement on LinkedIn](https://www.linkedin.com/posts/zhongyuan-zhao_acmmobihoc-edgecomputing-optimization-activity-7393307950653767680-dRLk?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAYeDLIBBSdCd5KT5pnaC1rUWiEMGOz3oXA)
 
 <div align="center">
   <img src="/images/mobihoc2025_best_poster_selr.jpeg" alt="Best Poster Award at ACM MobiHoc 2025" width="600">
