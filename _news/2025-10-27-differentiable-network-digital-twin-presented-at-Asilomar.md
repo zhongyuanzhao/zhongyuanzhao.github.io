@@ -53,6 +53,4 @@ In the example below, congestion is mitigated by optimizing the link-level conte
 
 This approach provides a **scalable analytical foundation** for **next-generation, self-organizing wireless networks**, paving the way for smarter network protocols and new methods of network flow optimization.  
 
-This work establishes a **scalable analytical foundation** that can evolve into **intelligent network protocols** and **learning-based network flow optimization** for future self-organizing wireless systems.
-
 **Preprint and code will be released soon.**
