@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my homepage!"
+title: "Zhongyuan Zhao's homepage!"
 excerpt: "Biography"
 author_profile: true
 redirect_from:
@@ -28,8 +28,9 @@ Explore my research [highlights](#highlight) and [publications](/publications/) 
 
 Current and recent research topics <a name="highlight"></a>
 ======
- 
-- Automomous networking ([ICLR'23](https://openreview.net/forum?id=yHIIM9BgOo), [IEEE TWC](https://ieeexplore.ieee.org/document/9962800) ([arXiv](https://arxiv.org/abs/2109.05536)), ICASSP'[24](/publications/2023-09-13-congestion-aware-offloading.html),[23](/publications/2022-11-19-link-duty-cycle-backpressure.html),[22a](https://doi.org/10.1109/ICASSP43922.2022.9746926), [22b](https://doi.org/10.1109/ICASSP43922.2022.9747437), [21](https://doi.org/10.1109/ICASSP39728.2021.9414098), CAMSAP'[23](/publications/2023-09-26-enhanced-sp-backpressure.html), [Tutorial](/files/icmlcn_2024_tutorial__ml4wireless.pdf)) -- focus on graph (network)-based machine learning for distributed decisions & discrete problems
+
+- Distributed machine learning in tactical networks -- focus on joint computation offloading and routing (ICASSP'[24](https://ieeexplore.ieee.org/document/10447302), [25](https://ieeexplore.ieee.org/document/10888598), MilCom'[24](https://ieeexplore.ieee.org/document/10774011), Mobihoc'[25 poster](https://dl.acm.org/doi/pdf/10.1145/3704413.3765321), Asilomar'[25](/news/2025/10/differentiable-digital-twin-presented-at-Asilomar/), [arXiv](https://arxiv.org/pdf/2504.21721)) and distributed ML (ICLMCN'[25](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11140566))
+- Automomous networking ([ICLR'23](https://openreview.net/forum?id=yHIIM9BgOo), IEEE [TWC'21](https://ieeexplore.ieee.org/document/9962800) ([arXiv](https://arxiv.org/abs/2109.05536)), [TWC'25](https://doi.org/10.1109/TWC.2025.3606741), ICASSP'[24](/publications/2023-09-13-congestion-aware-offloading.html),[23](/publications/2022-11-19-link-duty-cycle-backpressure.html),[22a](https://doi.org/10.1109/ICASSP43922.2022.9746926), [22b](https://doi.org/10.1109/ICASSP43922.2022.9747437), [21](https://doi.org/10.1109/ICASSP39728.2021.9414098), CAMSAP'[23](/publications/2023-09-26-enhanced-sp-backpressure.html), [Tutorial](/files/icmlcn_2024_tutorial__ml4wireless.pdf)) -- focus on graph (network)-based machine learning for distributed decisions & discrete problems
 - AI radio: a neural OFDM receiver ([IEEE JSAC](https://doi.org/10.1109/JSAC.2021.3087241), [arXiv](https://arxiv.org/abs/1810.07181), [git](https://github.com/zhongyuanzhao/dl_ofdm), [post](/publications/2018-10-23-Deep-Waveform.html))
 - Cloud radio access networks ([j.adhoc](https://doi.org/10.1016/j.adhoc.2020.102305), [post](/publications/2020-10-23-CoSeC-RAN.html))
 - Dynamic spectrum access ([IEEE TVT](https://doi.org/10.1109/TVT.2019.2892867), [post](/publications/2019-02-01-CogTV.html); [M&SOM](https://doi.org/10.1287/msom.2018.0727), [manuscript](http://cbafiles.unl.edu/public/cbainternal/facStaffUploads/MSOM-template-final.pdf))
