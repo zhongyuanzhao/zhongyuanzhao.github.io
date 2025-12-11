@@ -38,7 +38,7 @@ author_profile: true
 {% endfor %}
 </ul>
 
-## Demo
+## Demo and Poster
 ---
 <ul>
 {% assign conferences = site.publications | where: "category", "demo" %}
