@@ -7,7 +7,7 @@ excerpt: 'The Actor-Twin framework leverages an actor-critic-based multi-branch 
 date: 2025-04-02
 venue: 'Adaptive and Learning Agents (ALA) Workshop, AAMAS 2025'
 paperurl: 'https://openreview.net/pdf?id=DxpdovAY8Y'
-citation: 'Narjes Nourzad, Jared Coleman, Zhongyuan Zhao, Bhaskar Krishnamachari, Gunjan Verma, and Santiago Segarra, &quot; Actor-Twin Framework for Task Graph Scheduling,&quot; <i>The Seventeenth Workshop on Adaptive and Learning Agents, 2025</i>, accepted for publications'
+citation: 'Narjes Nourzad, Jared Coleman, Zhongyuan Zhao, Bhaskar Krishnamachari, Gunjan Verma, and Santiago Segarra, &quot; Actor-Twin Framework for Task Graph Scheduling,&quot; <i>The Seventeenth Workshop on Adaptive and Learning Agents, AAMAS 2025</i>, pp 1-10, April 2025'
 ---
 
 
