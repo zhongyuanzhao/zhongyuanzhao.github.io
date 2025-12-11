@@ -53,4 +53,6 @@ In the example below, congestion is mitigated by optimizing the link-level conte
 
 This approach provides a **scalable analytical foundation** for **next-generation, self-organizing wireless networks**, paving the way for smarter network protocols and new methods of network flow optimization.  
 
-**Preprint and code will be released soon.**
+**Preprint will be released soon.**
+
+- Code <https://github.com/JoieMing/luby-ndt/>
