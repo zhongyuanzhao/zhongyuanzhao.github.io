@@ -2,7 +2,7 @@
 title: "Generalizing Biased Backpressure Routing and Scheduling to Wireless Multi-hop Networks with Advanced Air-interfaces"
 category: 'preprint'
 collection: manuscripts
-permalink: /publications/2025-04-08-generalized-sp-bp-for-mimo-mobihoc25.html
+permalink: /publications/2025-04-08-generalized-sp-bp-for-mimo-networks.html
 excerpt: 'Generalize biased backpressure routing for multi-commodity link sharing and MaxWeight scheduling in MIMO networks.'
 date: 2025-04-08
 venue: 'arXiv'
