@@ -12,7 +12,7 @@ tags:
   - news
 ---
 
-### Poster: Sparsity-enhanced Lagrangian Relaxation (SeLR) for Computation Offloading at the Edge
+### [Poster: Sparsity-enhanced Lagrangian Relaxation (SeLR) for Computation Offloading at the Edge](/publications/2025-10-30-poster-serl-for-edge-computing-mobihoc25.html)
 *(Negar Erfaniantaghvayi, Zhongyuan Zhao, Kevin Chan, Ananthram Swami, Santiago Segarra)*  
 
 We are delighted to share that our poster *“Sparsity-enhanced Lagrangian Relaxation (SeLR) for Computation Offloading at the Edge”* received the **Best Poster Award** at **ACM MobiHoc 2025**, held in Houston, TX.  
