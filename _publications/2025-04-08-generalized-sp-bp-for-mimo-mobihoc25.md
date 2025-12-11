@@ -5,9 +5,9 @@ collection: manuscripts
 permalink: /publications/2025-04-08-generalized-sp-bp-for-mimo-mobihoc25.html
 excerpt: 'Generalize biased backpressure routing for multi-commodity link sharing and MaxWeight scheduling in MIMO networks.'
 date: 2025-04-08
-venue: 'The 26th International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (MobiHoc), 2025'
+venue: 'arXiv'
 paperurl: 'https://arxiv.org/pdf/2504.21721'
-citation: 'Zhongyuan Zhao, Yujun Ming, Ananthram Swami, Kevin Chan, Fikadu Dagefu, Santiago Segarra, &quot; Generalizing Biased Backpressure Routing and Scheduling to Wireless Multi-hop Networks with Advanced Air-interfaces,&quot; <i>ACM Mobihoc, 2025</i>, under review'
+citation: 'Zhongyuan Zhao, Yujun Ming, Ananthram Swami, Kevin Chan, Fikadu Dagefu, Santiago Segarra, &quot; Generalizing Biased Backpressure Routing and Scheduling to Wireless Multi-hop Networks with Advanced Air-interfaces,&quot; <i>PrePrint arXiv: 2504.21721</i>, manuscript under preparation'
 ---
 
 
@@ -22,3 +22,10 @@ Numerical evaluations show that our approach substantially mitigates the last-pa
 
 - Preprint <https://arxiv.org/pdf/2504.21721>
 - Source code available soon 
+
+This work is under preparation for a journal submission. The full version is under preparation for journal submission, and will include improved theoretical proof and extened experimental results over the PrePrint.
+
+Another shorter version of it with improved theoretical proof was submitted to IEEE ICASSP 2026, <http://arxiv.org/abs/2512.09902>. 
+
+
+Updated: 12/11/2025
