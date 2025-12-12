@@ -17,6 +17,10 @@ tags:
 
 Presented at the **Asilomar Conference on Signals, Systems, and Computers**, Pacific Grove, CA, October 2025.
 
+- Preprint <https://arxiv.org/abs/2512.10874>
+- Source code <https://github.com/JoieMing/luby-ndt/>
+
+
 ---
 
 We presented our latest work on building an **analytical and differentiable digital twin** of distributed medium access control (MAC) based on randomized contention — a mechanism widely used in **Wi-Fi, mobile ad-hoc networks, wireless mesh networks**, and in emerging **6G scenarios** such as wireless backhaul and spectrum sharing.  
@@ -53,6 +57,3 @@ In the example below, congestion is mitigated by optimizing the link-level conte
 
 This approach provides a **scalable analytical foundation** for **next-generation, self-organizing wireless networks**, paving the way for smarter network protocols and new methods of network flow optimization.  
 
-**Preprint will be released soon.**
-
-- Code <https://github.com/JoieMing/luby-ndt/>
