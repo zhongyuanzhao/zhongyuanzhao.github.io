@@ -5,9 +5,9 @@ collection: manuscripts
 permalink: /publications/2025-04-08-serl-for-edge-computing-mobihoc25.html
 excerpt: 'Fast heuristic algorithm to close the optimality gap of mixed integer programming in offline computation offloading.'
 date: 2025-04-08
-venue: 'The 26th International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (MobiHoc), 2025'
-paperurl: ''
-citation: 'Negar Erfaniantaghvayi, Zhongyuan Zhao, Kevin Chan, Ananthram Swami, Santiago Segarra, &quot; SeLR: Sparsity-enhanced Lagrangian Relaxation for Computation Offloading at the Edge,&quot; <i>ACM Mobihoc, 2025</i>, under review'
+venue: 'arXiv'
+paperurl: 'https://arxiv.org/pdf/2505.00848'
+citation: 'Negar Erfaniantaghvayi, Zhongyuan Zhao, Kevin Chan, Ananthram Swami, Santiago Segarra, &quot; SeLR: Sparsity-enhanced Lagrangian Relaxation for Computation Offloading at the Edge,&quot; <i>PrePrint arXiv: 2505.00848</i>, manuscript under preparation'
 ---
 
 
