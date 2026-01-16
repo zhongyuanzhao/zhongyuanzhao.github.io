@@ -9,9 +9,8 @@ redirect_from:
 ---
 {% include base_path %}
 
-I focus on graph-based [neuro-symbolic]((https://en.wikipedia.org/wiki/Neuro-symbolic_AI)) approaches to synergize the <span class="tooltip" data-toggle="tooltip" title="Statistical patterns AI learns but struggles to model explicitly">organic</span>, <span class="tooltip" data-toggle="tooltip" title="Inherent graph structures in data">structural</span>, and <span class="tooltip" data-toggle="tooltip" title="Man-made rules and protocols">engineered</span> dimensions of complex systems. 
-My research intersects machine learning, network science, wireless communications, and operations research.
-By bridging graph-based machine learning with domain-specific analytical models, my recent work advances distributed combinatorial algorithms, stochastic network optimization, and radio signal processing, yielding scalable, intelligent solutions for wireless communications, networking, and edge computing, with potential applications in transportation and biological networks.
+I develop neural-algorithmic solutions for complex systems characterized by the interplay of interconnection topology (Graphs), dependency structures (Queues/DAGs), and engineered rules (Protocols/Constraints).
+My research aims to create scalable and resilient architectures and/or resource allocation for networked systems, ranging from self-organizing wireless networks, 6G, and edge computing to emerging applications in transportation, logistics, and agentic planning & coordination.
 
 My past work includes dynamic spectrum access, and vehicular communications, and large-scale testbed of cloud radio access networks.
 Through [graph modeling and machine learning](#chatgpt), I aim to make research in wireless communications and networked systems more engaging and transferable. 
