@@ -9,7 +9,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-I develop neural-algorithmic solutions for complex systems characterized by the interplay of interconnection topology (Graphs), dependency structures (Queues/DAGs), and engineered rules (Protocols/Constraints).
+I am interested in neural-algorithmic solutions for complex systems characterized by the interplay of interconnection topology (Graphs), dependency structures (Queues/DAGs), and engineered rules (Protocols/Constraints).
 My research aims to create scalable and resilient architectures and/or resource allocation for networked systems, ranging from self-organizing wireless networks, 6G, and edge computing to emerging applications in transportation, logistics, and agentic planning & coordination.
 
 My past work includes dynamic spectrum access, and vehicular communications, and large-scale testbed of cloud radio access networks.
