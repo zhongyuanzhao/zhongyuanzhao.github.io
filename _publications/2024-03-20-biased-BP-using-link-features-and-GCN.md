@@ -7,7 +7,7 @@ excerpt: 'To improve the latency performance of Backpressure routing, we improve
 date: 2024-03-20
 venue: 'IEEE TMLCN'
 paperurl: 'https://doi.org/10.1109/TMLCN.2024.3461711'
-citation: 'Zhongyuan Zhao, Bojan Radojičić, Gunjan Verma, Ananthram Swami, Santiago Segarra, &quot; Distributed Link Sparsification for Scalable Scheduling using Graph Neural Networks,&quot; <i>IEEE Transactions on Machine Learning in Communications and Networking</i>, Vol. 2, pp1424-1439, Sep. 2024'
+citation: 'Zhongyuan Zhao, Bojan Radojičić, Gunjan Verma, Ananthram Swami, Santiago Segarra, &quot;Biased Backpressure Routing using Link Features and Graph Neural Networks,&quot; <i>IEEE Transactions on Machine Learning in Communications and Networking</i>, Vol. 2, pp1424-1439, Sep. 2024'
 ---
 
 Related conference papers and code
