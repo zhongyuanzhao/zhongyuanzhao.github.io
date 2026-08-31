@@ -11,9 +11,8 @@ redirect_from:
 
 I am interested in neural-algorithmic solutions for complex systems characterized by the interplay of interconnection topology (Graphs), dependency structures (Queues/DAGs), and engineered rules (Protocols/Constraints).
 My research aims to create scalable and resilient architectures and/or resource allocation for networked systems, ranging from self-organizing wireless networks, 6G, and edge computing to emerging applications in transportation, logistics, and agentic planning & coordination.
+I am more passionate about making the skills and methodologies behind wireless systems transferable across the broader EECS landscape, so that my students can move between fields and industries at any stage of their careers almost as freely as they trade stocks in their portfolios. That is why I work on graphs, learning, optimization, and neuro-symbolic methods; improving the “dumb pipes” themselves is a secondary outcome of my work.
 
-My past work includes dynamic spectrum access, and vehicular communications, and large-scale testbed of cloud radio access networks.
-Through [graph modeling and machine learning](#chatgpt), I aim to make research in wireless communications and networked systems more engaging and transferable. 
 Throughout my academic career, I've had the privilege of working with esteemed advisors including [Santiago Segarra](http://segarra.rice.edu/) (19-present), [Mehmet C. Vuran](http://cse.unl.edu/~mcvuran/) (13-19), [Zishu He](https://ieeexplore.ieee.org/author/37086032055) (06-09), and [Zhuming Chen](https://ieeexplore.ieee.org/author/37291477800) (04-06). Their mentorship has helped me become the researcher I am today, and I'm always grateful.
 
 Explore my research [highlights](#highlight) and [publications](/publications/) for details, and connect via GitHub, email, or LinkedIn.
