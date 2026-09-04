@@ -5,9 +5,9 @@ collection: manuscripts
 permalink: /publications/2025-12-11-link-sharing-sp-bp-icassp26.html
 excerpt: 'Generalize biased backpressure routing and scheduling from exclusive commodity selection to  multi-commodity link sharing to mitigate starvation of bursty traffic (the last packet problem).'
 date: 2025-12-11
-venue: 'IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2026'
+venue: 'arXiv'
 paperurl: 'http://arxiv.org/pdf/2512.09902'
-citation: 'Zhongyuan Zhao, Yujun Ming, Ananthram Swami, Kevin Chan, Fikadu Dagefu, Santiago Segarra, &quot; Link-Sharing Backpressure Routing In Wireless Multi-Hop Networks,&quot; <i>IEEE ICASSP, 2026</i>, under review'
+citation: 'Zhongyuan Zhao, Yujun Ming, Ananthram Swami, Kevin Chan, Fikadu Dagefu, Santiago Segarra, &quot; Link-Sharing Backpressure Routing In Wireless Multi-Hop Networks,&quot; <i>arXiv preprint arXiv:2512.09902</i>, 2025'
 ---
 
 

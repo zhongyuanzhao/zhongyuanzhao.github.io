@@ -1,5 +1,5 @@
 ---
-title: 'ICASSP 26 submission "Link-Sharing Backpressure Routing In Wireless Multi-Hop Networks" now available on arXiv'
+title: 'Preprint "Link-Sharing Backpressure Routing In Wireless Multi-Hop Networks" now available on arXiv'
 date: 2025-12-11
 collection: news
 permalink: /news/2025/12/icassp-26-submission-link-sharing-spbp-on-arxiv/
