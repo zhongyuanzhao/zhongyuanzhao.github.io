@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Under review
+## Preprint
 ---
 <ul>
 {% assign journals = site.publications | where: "category", "preprint" %}
