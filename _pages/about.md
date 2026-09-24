@@ -13,14 +13,12 @@ I am interested in neural-algorithmic solutions for complex systems characterize
 My research aims to create scalable and resilient architectures and/or resource allocation for networked systems, ranging from self-organizing wireless networks, 6G, and edge computing to emerging applications in transportation, logistics, and agentic planning & coordination.
 I am more passionate about making the skills and methodologies behind wireless systems transferable across the broader EECS landscape, so that my students can move between fields and industries at any stage of their careers almost as freely as they trade stocks in their portfolios. That is why I work on graphs, learning, optimization, and neuro-symbolic methods; improving the “dumb pipes” themselves is a secondary outcome of my work.
 
-Throughout my academic career, I've had the privilege of working with esteemed advisors including [Santiago Segarra](http://segarra.rice.edu/) (19-present), [Mehmet C. Vuran](http://cse.unl.edu/~mcvuran/) (13-19), [Zishu He](https://ieeexplore.ieee.org/author/37086032055) (06-09), and [Zhuming Chen](https://ieeexplore.ieee.org/author/37291477800) (04-06). Their mentorship has helped me become the researcher I am today, and I'm always grateful.
 
 Explore my research [highlights](#highlight) and [publications](/publications/) for details, and connect via GitHub, email, or LinkedIn.
 
-
-
-
 [Curriculum vitae]({{site.baseurl}}/files/zhongyuanzhao-cv.pdf) 
+
+*Undergraduate and master’s students interested in gaining research experience through unpaid volunteer opportunities are welcome to contact me.*
 
 -----
 
@@ -80,6 +78,17 @@ ChatGPT explains machine learning for wireless systems using [Tom Scott](https:/
 
 More
 ======
+
+Current and former mentees
+- [Yujun Ming](https://www.linkedin.com/in/yujun-ming-684078267/) (PhD student, 2024-present)
+- [Negar Erfaniantaghvayi](https://www.linkedin.com/in/negar-erfanian93/) (PhD, graduated, 2023-2025)
+- Rostyslav Olshevskyi (PhD student, 2023-2025)
+- Setsuna Jiang (Undergraduate, 2024-present)
+- [Bojan Radojicic](https://www.linkedin.com/in/radojicicbojan/) (Visiting undergraduate intern, summer 2022)
+- Alex Carneiro de Sousa (Summer Undergraduate Research Followship (SURF), 2025)
+- Carlos Alberto Gracia Melendez (Summer Undergraduate Research Followship (SURF), 2025)
+
+Throughout my academic career, I've had the privilege of working with esteemed advisors including [Santiago Segarra](http://segarra.rice.edu/) (19-present), [Mehmet C. Vuran](http://cse.unl.edu/~mcvuran/) (13-19), [Zishu He](https://ieeexplore.ieee.org/author/37086032055) (06-09), and [Zhuming Chen](https://ieeexplore.ieee.org/author/37291477800) (04-06). Their mentorship has helped me become the researcher I am today, and I'm always grateful.
 
 When not immersed in research, I enjoy reading, [finance](/portfolio/business-education/), and sports. I especially appreciate the Olympic Motto, "Citius, Altius, Fortius," which means "faster, higher, braver." I believe it encapsulates the spirit of always striving for improvement and pushing ourselves to be our best.
 
