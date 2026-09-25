@@ -37,23 +37,35 @@ The research plan itself contains assumptions you need to test. Your advisor’s
 
 Even if you follow the plan carefully, you may find that the approach does not work—or discover something unexpected that points to a more promising direction. Either can be a reason to change the plan. What you learn along the way helps you decide what to try next, even if it does not immediately lead to a publishable result.
 
-## 2. Make a plan—and leave generous margins
+## 2. Your responsibility goes beyond carrying out your advisor’s plan
 
-Early in my PhD, I treated an advisor’s proposed research plan as an execution plan. I assumed that completing the steps on schedule would produce the expected outcome, and I budgeted my effort accordingly.
+At first, research may feel like a series of assignments. Your advisor gives you tasks, you complete them, and you report the results. When the early tasks go well, it is easy to think:
 
-Then I hit a wall. Something did not work, the approach needed to change, and some work had to be repeated. Only then did I fully appreciate that the plan had been a suggestion for exploration. Some of what I had treated as settled was still unknown.
+> “These tasks took two days. I have finished this week’s research work, so I can spend the remaining time on courses, assignments, and other priorities.”
 
-For example, an advisor may recommend a method or simulation tool because several published papers report promising results. Only when a student starts using it do they discover that its assumptions do not fit the problem, or that it cannot represent something the project requires. The literature made it a reasonable starting point, but establishing its suitability required hands-on work. Some limitations become visible only after that investment, forcing a change of plan.
+Other commitments are normal. The assumption worth questioning is that completing the assigned tasks fulfills your responsibility to the research.
 
-Such discoveries can reshape much more than the schedule. The question, method, and eventual contribution may all change—sometimes so substantially that the final publication looks almost unrecognizable compared with the initial proposal. The early work may not appear in the paper, but it helped reveal which direction was worth pursuing.
+Eventually, an approach may fail. Your advisor asks for changes and additional work outside the original plan. You may think:
 
-I see students make the same mistake. They estimate how long the visible tasks will take, then fill the remaining time with other projects or activities. When the research requires a substantial revision, they have little capacity left to respond.
+> “You chose the approach and told me what to do. I did it carefully and spent considerable time on it. If it doesn’t work, I have fulfilled my part. Why should I keep paying for your mistaken advice?”
 
-Build a reasonable plan, but give it generous margins. You may need to investigate an unexpected result, learn a missing technique, reconsider an assumption, or redo an experiment. Those possibilities belong inside your understanding of the project.
+I remember feeling this way early in my PhD, and I have seen other students struggle with the same frustration.
 
-Deadlines and milestones remain useful. The distinction is between scheduling an action and assuming its outcome.
+This reaction assumes that the advisor is responsible for choosing the approach and interpreting the results, while the student handles execution. But that leaves the advisor as the only person questioning assumptions and deciding what comes next. Your advisor can be wrong, and the resulting delay still affects your publication and progress.
 
-“By Friday, I will test whether this assumption holds” is a commitment you can organize your work around. “By Friday, these steps will produce the result we need” depends on something that may still be a research question.
+Research apprenticeship should gradually prepare you to share those responsibilities. This expectation often remains implicit. Even “take ownership” can sound like “complete your assignments reliably” when the advisor means that you should also help examine and shape the plan.
+
+That involvement begins before you carry out the suggested work. Understand why the problem matters and what the approach is supposed to accomplish, then keep asking questions:
+
+- What could go wrong? What assumptions or limitations should we examine?
+- What evidence would support the idea, and what would show that it fails?
+- What should I read to understand the problem better? Are there other ways to address it?
+
+Discuss these questions with your advisor and investigate them yourself. A recommendation can be well informed and still depend on assumptions neither of you has tested.
+
+I once described an optimization method to a friend who was an experienced researcher. I was convinced it would work, and he was initially excited too. A day later, he returned with a Jupyter notebook showing that it did not. His willingness to question the idea—and test it quickly—saved us from spending much more time pursuing it.
+
+That is a productive research habit: take promising ideas seriously while looking for reasons they might fail. As you gain experience, your contribution should increasingly include testing the reasoning behind a plan, interpreting what you find, and proposing what to do next.
 
 ## 3. Work in focused sprints, with time to reconsider
 
