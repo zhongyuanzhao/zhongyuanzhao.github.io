@@ -164,3 +164,9 @@ I wish I had understood these lessons when I started my PhD. They would not have
 Give a promising problem your attention, test the assumptions that matter, and leave room to change your approach. Take initiative, communicate honestly, and work toward a relationship in which you and your advisor can learn from unexpected results together. These habits will serve you through your first project and beyond it.
 
 Research can be frustrating, but it can also bring the satisfaction of understanding something that was previously unclear—and contributing something others can build on. I hope you find a question that holds your curiosity, mentors and collaborators who support your growth, and the confidence to pursue work you will be proud of. Good luck with your first steps into research.
+
+For further inspiration, I recommend Jack E. Oliver’s [*The Incomplete Guide to the Art of Discovery*](https://archive.org/details/incompleteguidet0000oliv/page/n7/mode/2up).
+
+## Recommended reading
+
+Oliver, Jack E. [*The Incomplete Guide to the Art of Discovery*](https://archive.org/details/incompleteguidet0000oliv/page/n7/mode/2up). Columbia University Press, 1991.
