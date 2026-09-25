@@ -55,7 +55,9 @@ This reaction assumes that the advisor is responsible for choosing the approach 
 
 Research apprenticeship should gradually prepare you to share those responsibilities. This expectation often remains implicit. Even “take ownership” can sound like “complete your assignments reliably” when the advisor means that you should also help examine and shape the plan.
 
-That involvement begins before you carry out the suggested work. Understand why the problem matters and what the approach is supposed to accomplish, then keep asking questions:
+For example, an advisor may recommend a method or simulation tool because several published papers report promising results. Once you begin using it, you may discover that the method relies on an assumption your problem does not satisfy, or that the simulator cannot model a feature you need. The recommendation was reasonable, but its suitability could only be established through actual work.
+
+Taking ownership starts with understanding the ultimate research question. That begins before you carry out the suggested work. Understand why the problem matters and what the approach is supposed to accomplish, then keep asking questions:
 
 - What could go wrong? What assumptions or limitations should we examine?
 - What evidence would support the idea, and what would show that it fails?
