@@ -65,7 +65,7 @@ Taking ownership starts with understanding the ultimate research question. That 
 
 Discuss these questions with your advisor and investigate them yourself. A recommendation can be well informed and still depend on assumptions neither of you has tested.
 
-I once described an optimization method to a friend who was an experienced researcher. I was convinced it would work, and he was initially excited too. A day later, he returned with a Jupyter notebook showing that it did not. His willingness to question the idea—and test it quickly—saved us from spending much more time pursuing it.
+I once described an optimization method to a friend who was an experienced researcher. I was convinced it would work, and he was initially excited too. A day later, he returned with a Jupyter notebook showing that it did not. The test required only sophomore-level skills. The scientific judgment lay in recognizing which assumption to challenge and how a simple experiment could settle it, saving us weeks of pursuing a dead end. 
 
 That is a productive research habit: take promising ideas seriously while looking for reasons they might fail. As you gain experience, your contribution should increasingly include testing the reasoning behind a plan, interpreting what you find, and proposing what to do next.
 
