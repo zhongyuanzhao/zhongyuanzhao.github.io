@@ -18,7 +18,7 @@ Explore my research [highlights](#highlight) and [publications](/publications/) 
 
 [Curriculum vitae]({{site.baseurl}}/files/zhongyuanzhao-cv.pdf) 
 
-*Undergraduate and master’s students interested in gaining research experience through unpaid volunteer opportunities are welcome to contact me.*
+*Rice undergraduate and master’s students interested in gaining research experience through unpaid volunteer opportunities are welcome to contact me.*
 
 -----
 
