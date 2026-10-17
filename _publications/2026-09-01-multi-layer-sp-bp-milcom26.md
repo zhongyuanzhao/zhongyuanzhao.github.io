@@ -20,6 +20,7 @@ By modeling packet-to-interface assignment as transmission between virtual subno
 Numerical results demonstrate that the proposed framework outperforms SP-BP operating on other baseline graph models and non-backpressure routing schemes in goodput, latency, and packet delivery rate.
 
 - Preprint <https://arxiv.org/pdf/2609.05844> 
-- Source code available soon
+- [Slides](https://cdn.jsdelivr.net/gh/JoieMing/Multi-layer-SP-BP@main/milcom26_slides.pdf), [Poster](https://cdn.jsdelivr.net/gh/JoieMing/Multi-layer-SP-BP@main/milcom26_poster.pdf)
+- Source code will become available later at <https://github.com/JoieMing/Multi-layer-SP-BP>
 
 
